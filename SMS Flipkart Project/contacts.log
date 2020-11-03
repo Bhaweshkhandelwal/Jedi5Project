@@ -1,0 +1,2121 @@
+09:09:33,684  INFO SMSApplicationClient,main:35 - Enter your choice: 
+09:09:33,729  INFO SMSApplicationClient,main:36 - 0 :- Exit 
+09:09:33,729  INFO SMSApplicationClient,main:37 - 1 :- Login User 
+09:09:33,730  INFO SMSApplicationClient,main:38 - 2 :- Register User 
+09:09:48,774  INFO SMSApplicationClient,main:79 - Enter the userName: 
+09:10:13,406  INFO SMSApplicationClient,main:81 - Enter the password: 
+09:10:20,218 ERROR AuthenticationDaoImpl,main:53 - 
+09:10:20,219  INFO SMSApplicationClient,main:35 - Enter your choice: 
+09:10:20,219  INFO SMSApplicationClient,main:36 - 0 :- Exit 
+09:10:20,220  INFO SMSApplicationClient,main:37 - 1 :- Login User 
+09:10:20,220  INFO SMSApplicationClient,main:38 - 2 :- Register User 
+09:19:31,651  INFO SMSApplicationClient,main:35 - Enter your choice: 
+09:19:31,667  INFO SMSApplicationClient,main:36 - 0 :- Exit 
+09:19:31,667  INFO SMSApplicationClient,main:37 - 1 :- Login User 
+09:19:31,667  INFO SMSApplicationClient,main:38 - 2 :- Register User 
+09:19:39,966  INFO SMSApplicationClient,main:79 - Enter the userName: 
+09:19:47,685  INFO SMSApplicationClient,main:81 - Enter the password: 
+09:19:52,722 ERROR AuthenticationDaoImpl,main:53 - 
+09:19:52,722  INFO SMSApplicationClient,main:35 - Enter your choice: 
+09:19:52,722  INFO SMSApplicationClient,main:36 - 0 :- Exit 
+09:19:52,723  INFO SMSApplicationClient,main:37 - 1 :- Login User 
+09:19:52,723  INFO SMSApplicationClient,main:38 - 2 :- Register User 
+09:20:37,329  INFO SMSApplicationClient,main:35 - Enter your choice: 
+09:20:37,333  INFO SMSApplicationClient,main:36 - 0 :- Exit 
+09:20:37,333  INFO SMSApplicationClient,main:37 - 1 :- Login User 
+09:20:37,334  INFO SMSApplicationClient,main:38 - 2 :- Register User 
+09:20:42,075  INFO SMSApplicationClient,main:79 - Enter the userName: 
+09:20:52,045  INFO SMSApplicationClient,main:81 - Enter the password: 
+09:21:01,259 ERROR AuthenticationDaoImpl,main:53 - 
+09:21:01,260  INFO SMSApplicationClient,main:35 - Enter your choice: 
+09:21:01,260  INFO SMSApplicationClient,main:36 - 0 :- Exit 
+09:21:01,261  INFO SMSApplicationClient,main:37 - 1 :- Login User 
+09:21:01,261  INFO SMSApplicationClient,main:38 - 2 :- Register User 
+09:25:01,552  INFO SMSApplicationClient,main:35 - Enter your choice: 
+09:25:01,556  INFO SMSApplicationClient,main:36 - 0 :- Exit 
+09:25:01,557  INFO SMSApplicationClient,main:37 - 1 :- Login User 
+09:25:01,557  INFO SMSApplicationClient,main:38 - 2 :- Register User 
+09:25:04,846  INFO SMSApplicationClient,main:79 - Enter the userName: 
+09:25:11,646  INFO SMSApplicationClient,main:81 - Enter the password: 
+09:25:17,122 ERROR AuthenticationDaoImpl,main:53 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?) AND password = (?)' at line 1
+09:25:17,124  INFO SMSApplicationClient,main:35 - Enter your choice: 
+09:25:17,124  INFO SMSApplicationClient,main:36 - 0 :- Exit 
+09:25:17,124  INFO SMSApplicationClient,main:37 - 1 :- Login User 
+09:25:17,125  INFO SMSApplicationClient,main:38 - 2 :- Register User 
+09:26:19,774  INFO SMSApplicationClient,main:35 - Enter your choice: 
+09:26:19,778  INFO SMSApplicationClient,main:36 - 0 :- Exit 
+09:26:19,779  INFO SMSApplicationClient,main:37 - 1 :- Login User 
+09:26:19,779  INFO SMSApplicationClient,main:38 - 2 :- Register User 
+09:26:23,603  INFO SMSApplicationClient,main:79 - Enter the userName: 
+09:26:31,174  INFO SMSApplicationClient,main:81 - Enter the password: 
+09:26:37,061 ERROR AuthenticationDaoImpl,main:53 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'values (?,?)' at line 1
+09:26:37,062  INFO SMSApplicationClient,main:35 - Enter your choice: 
+09:26:37,062  INFO SMSApplicationClient,main:36 - 0 :- Exit 
+09:26:37,062  INFO SMSApplicationClient,main:37 - 1 :- Login User 
+09:26:37,063  INFO SMSApplicationClient,main:38 - 2 :- Register User 
+09:27:33,506  INFO SMSApplicationClient,main:35 - Enter your choice: 
+09:27:33,509  INFO SMSApplicationClient,main:36 - 0 :- Exit 
+09:27:33,510  INFO SMSApplicationClient,main:37 - 1 :- Login User 
+09:27:33,510  INFO SMSApplicationClient,main:38 - 2 :- Register User 
+09:27:43,230  INFO SMSApplicationClient,main:79 - Enter the userName: 
+09:27:48,357  INFO SMSApplicationClient,main:81 - Enter the password: 
+09:27:52,696 ERROR AuthenticationDaoImpl,main:53 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'values (?) AND password = (password) values (?)' at line 1
+09:27:52,697  INFO SMSApplicationClient,main:35 - Enter your choice: 
+09:27:52,697  INFO SMSApplicationClient,main:36 - 0 :- Exit 
+09:27:52,697  INFO SMSApplicationClient,main:37 - 1 :- Login User 
+09:27:52,698  INFO SMSApplicationClient,main:38 - 2 :- Register User 
+09:29:55,989  INFO SMSApplicationClient,main:35 - Enter your choice: 
+09:29:55,992  INFO SMSApplicationClient,main:36 - 0 :- Exit 
+09:29:55,993  INFO SMSApplicationClient,main:37 - 1 :- Login User 
+09:29:55,993  INFO SMSApplicationClient,main:38 - 2 :- Register User 
+09:29:58,910  INFO SMSApplicationClient,main:79 - Enter the userName: 
+09:30:05,173  INFO SMSApplicationClient,main:81 - Enter the password: 
+09:30:10,626 ERROR AuthenticationDaoImpl,main:53 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? AND password = ?' at line 1
+09:30:10,626  INFO SMSApplicationClient,main:35 - Enter your choice: 
+09:30:10,627  INFO SMSApplicationClient,main:36 - 0 :- Exit 
+09:30:10,627  INFO SMSApplicationClient,main:37 - 1 :- Login User 
+09:30:10,627  INFO SMSApplicationClient,main:38 - 2 :- Register User 
+09:38:42,546  INFO SMSApplicationClient,main:35 - Enter your choice: 
+09:38:42,551  INFO SMSApplicationClient,main:36 - 0 :- Exit 
+09:38:42,551  INFO SMSApplicationClient,main:37 - 1 :- Login User 
+09:38:42,552  INFO SMSApplicationClient,main:38 - 2 :- Register User 
+09:38:54,157  INFO SMSApplicationClient,main:79 - Enter the userName: 
+09:39:04,133  INFO SMSApplicationClient,main:81 - Enter the password: 
+09:39:08,252 ERROR AuthenticationDaoImpl,main:55 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? AND password = ?' at line 1
+09:39:08,253  INFO SMSApplicationClient,main:35 - Enter your choice: 
+09:39:08,253  INFO SMSApplicationClient,main:36 - 0 :- Exit 
+09:39:08,253  INFO SMSApplicationClient,main:37 - 1 :- Login User 
+09:39:08,254  INFO SMSApplicationClient,main:38 - 2 :- Register User 
+10:02:44,115  INFO SMSApplicationClient,main:35 - Enter your choice: 
+10:02:44,119  INFO SMSApplicationClient,main:36 - 0 :- Exit 
+10:02:44,119  INFO SMSApplicationClient,main:37 - 1 :- Login User 
+10:02:44,120  INFO SMSApplicationClient,main:38 - 2 :- Register User 
+10:02:49,713  INFO SMSApplicationClient,main:79 - Enter the userName: 
+10:02:58,125  INFO SMSApplicationClient,main:81 - Enter the password: 
+10:04:36,211 ERROR AuthenticationDaoImpl,main:55 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? AND password = ?' at line 1
+10:04:36,212  INFO SMSApplicationClient,main:35 - Enter your choice: 
+10:04:36,212  INFO SMSApplicationClient,main:36 - 0 :- Exit 
+10:04:36,213  INFO SMSApplicationClient,main:37 - 1 :- Login User 
+10:04:36,213  INFO SMSApplicationClient,main:38 - 2 :- Register User 
+17:04:52,714  INFO SMSApplicationClient,main:35 - Enter your choice: 
+17:04:52,742  INFO SMSApplicationClient,main:36 - 0 :- Exit 
+17:04:52,742  INFO SMSApplicationClient,main:37 - 1 :- Login User 
+17:04:52,744  INFO SMSApplicationClient,main:38 - 2 :- Register User 
+17:05:03,320  INFO SMSApplicationClient,main:79 - Enter the userName: 
+17:05:10,566  INFO SMSApplicationClient,main:81 - Enter the password: 
+17:05:17,375 ERROR AuthenticationDaoImpl,main:55 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? AND password = ?' at line 1
+17:05:17,376  INFO SMSApplicationClient,main:35 - Enter your choice: 
+17:05:17,377  INFO SMSApplicationClient,main:36 - 0 :- Exit 
+17:05:17,378  INFO SMSApplicationClient,main:37 - 1 :- Login User 
+17:05:17,378  INFO SMSApplicationClient,main:38 - 2 :- Register User 
+17:12:04,137  INFO SMSApplicationClient,main:35 - Enter your choice: 
+17:12:04,145  INFO SMSApplicationClient,main:36 - 0 :- Exit 
+17:12:04,145  INFO SMSApplicationClient,main:37 - 1 :- Login User 
+17:12:04,147  INFO SMSApplicationClient,main:38 - 2 :- Register User 
+17:12:08,824  INFO SMSApplicationClient,main:79 - Enter the userName: 
+17:12:15,935  INFO SMSApplicationClient,main:81 - Enter the password: 
+17:12:20,570 ERROR AuthenticationDaoImpl,main:55 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? AND password = ?' at line 1
+17:12:20,571  INFO SMSApplicationClient,main:35 - Enter your choice: 
+17:12:20,571  INFO SMSApplicationClient,main:36 - 0 :- Exit 
+17:12:20,572  INFO SMSApplicationClient,main:37 - 1 :- Login User 
+17:12:20,573  INFO SMSApplicationClient,main:38 - 2 :- Register User 
+17:14:03,560  INFO SMSApplicationClient,main:35 - Enter your choice: 
+17:14:03,565  INFO SMSApplicationClient,main:36 - 0 :- Exit 
+17:14:03,566  INFO SMSApplicationClient,main:37 - 1 :- Login User 
+17:14:03,567  INFO SMSApplicationClient,main:38 - 2 :- Register User 
+17:14:07,479  INFO SMSApplicationClient,main:79 - Enter the userName: 
+17:14:13,351  INFO SMSApplicationClient,main:81 - Enter the password: 
+17:14:17,747 ERROR AuthenticationDaoImpl,main:55 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? AND password = ?' at line 1
+17:14:17,747  INFO SMSApplicationClient,main:35 - Enter your choice: 
+17:14:17,748  INFO SMSApplicationClient,main:36 - 0 :- Exit 
+17:14:17,748  INFO SMSApplicationClient,main:37 - 1 :- Login User 
+17:14:17,749  INFO SMSApplicationClient,main:38 - 2 :- Register User 
+19:31:28,161  INFO SMSApplicationClient,main:35 - Enter your choice: 
+19:31:28,263  INFO SMSApplicationClient,main:36 - 0 :- Exit 
+19:31:28,264  INFO SMSApplicationClient,main:37 - 1 :- Login User 
+19:31:28,265  INFO SMSApplicationClient,main:38 - 2 :- Register User 
+19:31:35,567  INFO SMSApplicationClient,main:79 - Enter the userName: 
+19:31:44,029  INFO SMSApplicationClient,main:81 - Enter the password: 
+19:31:48,032 ERROR AdminDaoImpl,main:100 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+19:31:48,033  INFO SMSApplicationClient,main:44 - Enter your choice: 
+19:31:48,033  INFO SMSApplicationClient,main:45 - 0 :- Logout
+19:31:48,034  INFO SMSApplicationClient,main:46 - 1 :- Add User
+19:31:48,034  INFO SMSApplicationClient,main:47 - 2 :- Delete User
+19:31:48,035  INFO SMSApplicationClient,main:48 - 3 :- Update User
+19:31:48,036  INFO SMSApplicationClient,main:49 - 4 :- View Courses
+19:31:48,037  INFO SMSApplicationClient,main:50 - 5 :- Add Course
+19:31:48,038  INFO SMSApplicationClient,main:51 - 6 :- Delete Course
+19:35:12,675  INFO SMSApplicationClient,main:35 - Enter your choice: 
+19:35:12,685  INFO SMSApplicationClient,main:36 - 0 :- Exit 
+19:35:12,686  INFO SMSApplicationClient,main:37 - 1 :- Login User 
+19:35:12,686  INFO SMSApplicationClient,main:38 - 2 :- Register User 
+19:35:17,672  INFO SMSApplicationClient,main:79 - Enter the userName: 
+19:35:20,054  INFO SMSApplicationClient,main:81 - Enter the password: 
+19:35:21,901 ERROR AuthenticationDaoImpl,main:55 - Can not issue data manipulation statements with executeQuery().
+19:35:21,902  INFO SMSApplicationClient,main:35 - Enter your choice: 
+19:35:21,902  INFO SMSApplicationClient,main:36 - 0 :- Exit 
+19:35:21,903  INFO SMSApplicationClient,main:37 - 1 :- Login User 
+19:35:21,903  INFO SMSApplicationClient,main:38 - 2 :- Register User 
+19:37:35,961  INFO SMSApplicationClient,main:35 - Enter your choice: 
+19:37:35,966  INFO SMSApplicationClient,main:36 - 0 :- Exit 
+19:37:35,966  INFO SMSApplicationClient,main:37 - 1 :- Login User 
+19:37:35,967  INFO SMSApplicationClient,main:38 - 2 :- Register User 
+19:37:42,192  INFO SMSApplicationClient,main:79 - Enter the userName: 
+19:37:43,998  INFO SMSApplicationClient,main:81 - Enter the password: 
+19:37:46,202 ERROR AuthenticationDaoImpl,main:56 - A table must have at least 1 column
+19:37:46,204  INFO SMSApplicationClient,main:35 - Enter your choice: 
+19:37:46,204  INFO SMSApplicationClient,main:36 - 0 :- Exit 
+19:37:46,205  INFO SMSApplicationClient,main:37 - 1 :- Login User 
+19:37:46,206  INFO SMSApplicationClient,main:38 - 2 :- Register User 
+19:38:56,729  INFO SMSApplicationClient,main:35 - Enter your choice: 
+19:38:56,743  INFO SMSApplicationClient,main:36 - 0 :- Exit 
+19:38:56,744  INFO SMSApplicationClient,main:37 - 1 :- Login User 
+19:38:56,745  INFO SMSApplicationClient,main:38 - 2 :- Register User 
+19:39:01,015  INFO SMSApplicationClient,main:79 - Enter the userName: 
+19:39:07,294  INFO SMSApplicationClient,main:81 - Enter the password: 
+19:39:16,188 ERROR AdminDaoImpl,main:100 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+19:39:16,188  INFO SMSApplicationClient,main:44 - Enter your choice: 
+19:39:16,189  INFO SMSApplicationClient,main:45 - 0 :- Logout
+19:39:16,189  INFO SMSApplicationClient,main:46 - 1 :- Add User
+19:39:16,189  INFO SMSApplicationClient,main:47 - 2 :- Delete User
+19:39:16,190  INFO SMSApplicationClient,main:48 - 3 :- Update User
+19:39:16,190  INFO SMSApplicationClient,main:49 - 4 :- View Courses
+19:39:16,191  INFO SMSApplicationClient,main:50 - 5 :- Add Course
+19:39:16,191  INFO SMSApplicationClient,main:51 - 6 :- Delete Course
+19:40:26,110  INFO SMSApplicationClient,main:35 - Enter your choice: 
+19:40:26,117  INFO SMSApplicationClient,main:36 - 0 :- Exit 
+19:40:26,118  INFO SMSApplicationClient,main:37 - 1 :- Login User 
+19:40:26,118  INFO SMSApplicationClient,main:38 - 2 :- Register User 
+19:40:31,118  INFO SMSApplicationClient,main:79 - Enter the userName: 
+19:40:37,078  INFO SMSApplicationClient,main:81 - Enter the password: 
+19:40:40,227 ERROR AdminDaoImpl,main:100 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+19:40:40,227  INFO SMSApplicationClient,main:44 - Enter your choice: 
+19:40:40,229  INFO SMSApplicationClient,main:45 - 0 :- Logout
+19:40:40,231  INFO SMSApplicationClient,main:46 - 1 :- Add User
+19:40:40,231  INFO SMSApplicationClient,main:47 - 2 :- Delete User
+19:40:40,232  INFO SMSApplicationClient,main:48 - 3 :- Update User
+19:40:40,232  INFO SMSApplicationClient,main:49 - 4 :- View Courses
+19:40:40,233  INFO SMSApplicationClient,main:50 - 5 :- Add Course
+19:40:40,233  INFO SMSApplicationClient,main:51 - 6 :- Delete Course
+19:46:24,942  INFO SMSApplicationClient,main:35 - Enter your choice: 
+19:46:24,946  INFO SMSApplicationClient,main:36 - 0 :- Exit 
+19:46:24,947  INFO SMSApplicationClient,main:37 - 1 :- Login User 
+19:46:24,947  INFO SMSApplicationClient,main:38 - 2 :- Register User 
+19:46:30,854  INFO SMSApplicationClient,main:79 - Enter the userName: 
+19:46:34,310  INFO SMSApplicationClient,main:81 - Enter the password: 
+19:46:36,320  INFO SMSApplicationClient,main:35 - Enter your choice: 
+19:46:36,321  INFO SMSApplicationClient,main:36 - 0 :- Exit 
+19:46:36,323  INFO SMSApplicationClient,main:37 - 1 :- Login User 
+19:46:36,324  INFO SMSApplicationClient,main:38 - 2 :- Register User 
+09:18:34,708  INFO SMSApplicationClient,main:38 - Enter your choice: 
+09:18:34,785  INFO SMSApplicationClient,main:39 - 0 :- Exit 
+09:18:34,787  INFO SMSApplicationClient,main:40 - 1 :- Login User 
+09:18:34,787  INFO SMSApplicationClient,main:41 - 2 :- Register User 
+09:18:45,011  INFO SMSApplicationClient,main:93 - Enter the userName: 
+09:18:50,717  INFO SMSApplicationClient,main:95 - Enter the password: 
+09:18:56,192 ERROR AdminDaoImpl,main:100 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+09:18:56,193  INFO SMSApplicationClient,main:47 - Enter your choice: 
+09:18:56,193  INFO SMSApplicationClient,main:48 - 0 :- Logout
+09:18:56,193  INFO SMSApplicationClient,main:49 - 1 :- Add User
+09:18:56,194  INFO SMSApplicationClient,main:50 - 2 :- Delete User
+09:18:56,194  INFO SMSApplicationClient,main:51 - 3 :- Update User
+09:18:56,194  INFO SMSApplicationClient,main:52 - 4 :- View Courses
+09:18:56,195  INFO SMSApplicationClient,main:53 - 5 :- Add Course
+09:18:56,195  INFO SMSApplicationClient,main:54 - 6 :- Delete Course
+09:24:42,461  INFO SMSApplicationClient,main:38 - Enter your choice: 
+09:24:42,465  INFO SMSApplicationClient,main:39 - 0 :- Exit 
+09:24:42,466  INFO SMSApplicationClient,main:40 - 1 :- Login User 
+09:24:42,467  INFO SMSApplicationClient,main:41 - 2 :- Register User 
+09:24:50,553  INFO SMSApplicationClient,main:93 - Enter the userName: 
+09:24:56,994  INFO SMSApplicationClient,main:95 - Enter the password: 
+09:25:01,114 ERROR AuthenticationDaoImpl,main:56 - Before start of result set
+09:25:01,114  INFO SMSApplicationClient,main:38 - Enter your choice: 
+09:25:01,114  INFO SMSApplicationClient,main:39 - 0 :- Exit 
+09:25:01,115  INFO SMSApplicationClient,main:40 - 1 :- Login User 
+09:25:01,116  INFO SMSApplicationClient,main:41 - 2 :- Register User 
+09:27:58,535  INFO SMSApplicationClient,main:38 - Enter your choice: 
+09:27:58,538  INFO SMSApplicationClient,main:39 - 0 :- Exit 
+09:27:58,539  INFO SMSApplicationClient,main:40 - 1 :- Login User 
+09:27:58,539  INFO SMSApplicationClient,main:41 - 2 :- Register User 
+09:28:04,484  INFO SMSApplicationClient,main:93 - Enter the userName: 
+09:28:09,857  INFO SMSApplicationClient,main:95 - Enter the password: 
+09:28:13,444 ERROR AdminDaoImpl,main:100 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+09:28:13,445  INFO SMSApplicationClient,main:47 - Enter your choice: 
+09:28:13,445  INFO SMSApplicationClient,main:48 - 0 :- Logout
+09:28:13,446  INFO SMSApplicationClient,main:49 - 1 :- Add User
+09:28:13,446  INFO SMSApplicationClient,main:50 - 2 :- Delete User
+09:28:13,446  INFO SMSApplicationClient,main:51 - 3 :- Update User
+09:28:13,447  INFO SMSApplicationClient,main:52 - 4 :- View Courses
+09:28:13,447  INFO SMSApplicationClient,main:53 - 5 :- Add Course
+09:28:13,448  INFO SMSApplicationClient,main:54 - 6 :- Delete Course
+09:30:20,819  INFO SMSApplicationClient,main:38 - Enter your choice: 
+09:30:20,821  INFO SMSApplicationClient,main:39 - 0 :- Exit 
+09:30:20,822  INFO SMSApplicationClient,main:40 - 1 :- Login User 
+09:30:20,822  INFO SMSApplicationClient,main:41 - 2 :- Register User 
+09:30:25,570  INFO SMSApplicationClient,main:93 - Enter the userName: 
+09:30:31,212  INFO SMSApplicationClient,main:95 - Enter the password: 
+09:30:39,384  INFO SMSApplicationClient,main:38 - Enter your choice: 
+09:30:39,385  INFO SMSApplicationClient,main:39 - 0 :- Exit 
+09:30:39,385  INFO SMSApplicationClient,main:40 - 1 :- Login User 
+09:30:39,386  INFO SMSApplicationClient,main:41 - 2 :- Register User 
+09:30:46,336  INFO SMSApplicationClient,main:93 - Enter the userName: 
+09:30:53,850  INFO SMSApplicationClient,main:95 - Enter the password: 
+09:30:57,456  INFO AuthenticationDaoImpl,main:39 - Amit
+09:30:57,483 ERROR AdminDaoImpl,main:100 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+09:30:57,484  INFO SMSApplicationClient,main:47 - Enter your choice: 
+09:30:57,484  INFO SMSApplicationClient,main:48 - 0 :- Logout
+09:30:57,485  INFO SMSApplicationClient,main:49 - 1 :- Add User
+09:30:57,486  INFO SMSApplicationClient,main:50 - 2 :- Delete User
+09:30:57,487  INFO SMSApplicationClient,main:51 - 3 :- Update User
+09:30:57,487  INFO SMSApplicationClient,main:52 - 4 :- View Courses
+09:30:57,487  INFO SMSApplicationClient,main:53 - 5 :- Add Course
+09:30:57,488  INFO SMSApplicationClient,main:54 - 6 :- Delete Course
+09:38:01,507  INFO SMSApplicationClient,main:38 - Enter your choice: 
+09:38:01,511  INFO SMSApplicationClient,main:39 - 0 :- Exit 
+09:38:01,511  INFO SMSApplicationClient,main:40 - 1 :- Login User 
+09:38:01,512  INFO SMSApplicationClient,main:41 - 2 :- Register User 
+09:38:06,801  INFO SMSApplicationClient,main:93 - Enter the userName: 
+09:38:12,633  INFO SMSApplicationClient,main:95 - Enter the password: 
+09:38:16,704  INFO AuthenticationDaoImpl,main:39 - Amit
+09:38:16,724 ERROR AdminDaoImpl,main:100 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+09:38:16,724  INFO SMSApplicationClient,main:47 - Enter your choice: 
+09:38:16,726  INFO SMSApplicationClient,main:48 - 0 :- Logout
+09:38:16,730  INFO SMSApplicationClient,main:49 - 1 :- Add User
+09:38:16,731  INFO SMSApplicationClient,main:50 - 2 :- Delete User
+09:38:16,731  INFO SMSApplicationClient,main:51 - 3 :- Update User
+09:38:16,732  INFO SMSApplicationClient,main:52 - 4 :- View Courses
+09:38:16,732  INFO SMSApplicationClient,main:53 - 5 :- Add Course
+09:38:16,733  INFO SMSApplicationClient,main:54 - 6 :- Delete Course
+09:42:11,654  INFO SMSApplicationClient,main:38 - Enter your choice: 
+09:42:11,657  INFO SMSApplicationClient,main:39 - 0 :- Exit 
+09:42:11,658  INFO SMSApplicationClient,main:40 - 1 :- Login User 
+09:42:11,658  INFO SMSApplicationClient,main:41 - 2 :- Register User 
+09:42:14,315  INFO SMSApplicationClient,main:93 - Enter the userName: 
+09:42:21,001  INFO SMSApplicationClient,main:95 - Enter the password: 
+09:42:24,483  INFO AuthenticationDaoImpl,main:40 - Amit
+09:42:24,485  INFO AuthenticationDaoImpl,main:48 - 101
+09:42:24,510 ERROR AdminDaoImpl,main:100 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+09:42:24,511  INFO SMSApplicationClient,main:47 - Enter your choice: 
+09:42:24,512  INFO SMSApplicationClient,main:48 - 0 :- Logout
+09:42:24,512  INFO SMSApplicationClient,main:49 - 1 :- Add User
+09:42:24,513  INFO SMSApplicationClient,main:50 - 2 :- Delete User
+09:42:24,515  INFO SMSApplicationClient,main:51 - 3 :- Update User
+09:42:24,516  INFO SMSApplicationClient,main:52 - 4 :- View Courses
+09:42:24,518  INFO SMSApplicationClient,main:53 - 5 :- Add Course
+09:42:24,518  INFO SMSApplicationClient,main:54 - 6 :- Delete Course
+09:43:48,826  INFO SMSApplicationClient,main:38 - Enter your choice: 
+09:43:48,829  INFO SMSApplicationClient,main:39 - 0 :- Exit 
+09:43:48,829  INFO SMSApplicationClient,main:40 - 1 :- Login User 
+09:43:48,830  INFO SMSApplicationClient,main:41 - 2 :- Register User 
+09:43:57,975  INFO SMSApplicationClient,main:38 - Enter your choice: 
+09:43:57,979  INFO SMSApplicationClient,main:39 - 0 :- Exit 
+09:43:57,980  INFO SMSApplicationClient,main:40 - 1 :- Login User 
+09:43:57,980  INFO SMSApplicationClient,main:41 - 2 :- Register User 
+09:44:03,585  INFO SMSApplicationClient,main:93 - Enter the userName: 
+09:44:11,009  INFO SMSApplicationClient,main:95 - Enter the password: 
+09:44:15,770  INFO AuthenticationDaoImpl,main:40 - Amit
+09:44:15,772  INFO AuthenticationDaoImpl,main:48 - 101
+09:44:15,789 ERROR AdminDaoImpl,main:100 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+09:44:15,789  INFO SMSApplicationClient,main:47 - Enter your choice: 
+09:44:15,790  INFO SMSApplicationClient,main:48 - 0 :- Logout
+09:44:15,790  INFO SMSApplicationClient,main:49 - 1 :- Add User
+09:44:15,791  INFO SMSApplicationClient,main:50 - 2 :- Delete User
+09:44:15,793  INFO SMSApplicationClient,main:51 - 3 :- Update User
+09:44:15,796  INFO SMSApplicationClient,main:52 - 4 :- View Courses
+09:44:15,798  INFO SMSApplicationClient,main:53 - 5 :- Add Course
+09:44:15,799  INFO SMSApplicationClient,main:54 - 6 :- Delete Course
+09:46:09,450  INFO SMSApplicationClient,main:38 - Enter your choice: 
+09:46:09,452  INFO SMSApplicationClient,main:39 - 0 :- Exit 
+09:46:09,453  INFO SMSApplicationClient,main:40 - 1 :- Login User 
+09:46:09,454  INFO SMSApplicationClient,main:41 - 2 :- Register User 
+09:46:15,649  INFO SMSApplicationClient,main:93 - Enter the userName: 
+09:46:19,513  INFO SMSApplicationClient,main:95 - Enter the password: 
+09:46:22,711  INFO AuthenticationDaoImpl,main:40 - Amit
+09:46:22,712  INFO AuthenticationDaoImpl,main:48 - 101
+09:46:22,713  INFO AuthenticationDaoImpl,main:54 - Query is Excecuted
+09:46:22,740 ERROR AdminDaoImpl,main:100 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+09:46:22,741  INFO SMSApplicationClient,main:47 - Enter your choice: 
+09:46:22,741  INFO SMSApplicationClient,main:48 - 0 :- Logout
+09:46:22,741  INFO SMSApplicationClient,main:49 - 1 :- Add User
+09:46:22,742  INFO SMSApplicationClient,main:50 - 2 :- Delete User
+09:46:22,742  INFO SMSApplicationClient,main:51 - 3 :- Update User
+09:46:22,742  INFO SMSApplicationClient,main:52 - 4 :- View Courses
+09:46:22,743  INFO SMSApplicationClient,main:53 - 5 :- Add Course
+09:46:22,743  INFO SMSApplicationClient,main:54 - 6 :- Delete Course
+09:47:17,218  INFO SMSApplicationClient,main:38 - Enter your choice: 
+09:47:17,221  INFO SMSApplicationClient,main:39 - 0 :- Exit 
+09:47:17,222  INFO SMSApplicationClient,main:40 - 1 :- Login User 
+09:47:17,222  INFO SMSApplicationClient,main:41 - 2 :- Register User 
+09:47:22,585  INFO SMSApplicationClient,main:93 - Enter the userName: 
+09:47:27,761  INFO SMSApplicationClient,main:95 - Enter the password: 
+09:47:30,991  INFO AuthenticationDaoImpl,main:40 - Amit
+09:47:30,993  INFO AuthenticationDaoImpl,main:48 - 101
+09:47:30,994  INFO AuthenticationDaoImpl,main:54 - Query is Excecuted
+09:47:30,994  INFO AuthenticationDaoImpl,main:61 - Final execution!!
+09:47:31,026 ERROR AdminDaoImpl,main:100 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+09:47:31,027  INFO SMSApplicationClient,main:47 - Enter your choice: 
+09:47:31,027  INFO SMSApplicationClient,main:48 - 0 :- Logout
+09:47:31,028  INFO SMSApplicationClient,main:49 - 1 :- Add User
+09:47:31,028  INFO SMSApplicationClient,main:50 - 2 :- Delete User
+09:47:31,029  INFO SMSApplicationClient,main:51 - 3 :- Update User
+09:47:31,029  INFO SMSApplicationClient,main:52 - 4 :- View Courses
+09:47:31,030  INFO SMSApplicationClient,main:53 - 5 :- Add Course
+09:47:31,031  INFO SMSApplicationClient,main:54 - 6 :- Delete Course
+09:49:21,654  INFO SMSApplicationClient,main:38 - Enter your choice: 
+09:49:21,657  INFO SMSApplicationClient,main:39 - 0 :- Exit 
+09:49:21,657  INFO SMSApplicationClient,main:40 - 1 :- Login User 
+09:49:21,658  INFO SMSApplicationClient,main:41 - 2 :- Register User 
+09:49:27,880  INFO SMSApplicationClient,main:93 - Enter the userName: 
+09:49:32,745  INFO SMSApplicationClient,main:95 - Enter the password: 
+09:49:35,865  INFO AuthenticationServiceImpl,main:33 - In service method call 
+09:49:35,894  INFO AuthenticationDaoImpl,main:40 - Amit
+09:49:35,896  INFO AuthenticationDaoImpl,main:48 - 101
+09:49:35,897  INFO AuthenticationDaoImpl,main:54 - Query is Excecuted
+09:49:35,898  INFO AuthenticationDaoImpl,main:61 - Final execution!!
+09:49:35,899  INFO AuthenticationServiceImpl,main:35 - com.flipkart.bean.User@45fe3ee3
+09:49:35,900  INFO AuthenticationServiceImpl,main:36 - After service method call 
+09:49:35,934 ERROR AdminDaoImpl,main:100 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+09:49:35,935  INFO SMSApplicationClient,main:47 - Enter your choice: 
+09:49:35,937  INFO SMSApplicationClient,main:48 - 0 :- Logout
+09:49:35,939  INFO SMSApplicationClient,main:49 - 1 :- Add User
+09:49:35,939  INFO SMSApplicationClient,main:50 - 2 :- Delete User
+09:49:35,940  INFO SMSApplicationClient,main:51 - 3 :- Update User
+09:49:35,941  INFO SMSApplicationClient,main:52 - 4 :- View Courses
+09:49:35,941  INFO SMSApplicationClient,main:53 - 5 :- Add Course
+09:49:35,942  INFO SMSApplicationClient,main:54 - 6 :- Delete Course
+09:51:56,283  INFO SMSApplicationClient,main:82 - Creating instance of service class
+09:51:56,292  INFO SMSApplicationClient,main:84 - Created instance after service class
+09:51:57,461  INFO SMSApplicationClient,main:38 - Enter your choice: 
+09:51:57,462  INFO SMSApplicationClient,main:39 - 0 :- Exit 
+09:51:57,462  INFO SMSApplicationClient,main:40 - 1 :- Login User 
+09:51:57,463  INFO SMSApplicationClient,main:41 - 2 :- Register User 
+09:53:08,785  INFO SMSApplicationClient,main:82 - Creating instance of service class
+09:53:08,804  INFO SMSApplicationClient,main:84 - Created instance after service class
+09:53:10,045  INFO SMSApplicationClient,main:38 - Enter your choice: 
+09:53:10,046  INFO SMSApplicationClient,main:39 - 0 :- Exit 
+09:53:10,047  INFO SMSApplicationClient,main:40 - 1 :- Login User 
+09:53:10,047  INFO SMSApplicationClient,main:41 - 2 :- Register User 
+09:53:15,130  INFO SMSApplicationClient,main:95 - Enter the userName: 
+09:53:19,602  INFO SMSApplicationClient,main:97 - Enter the password: 
+09:53:23,136  INFO AuthenticationServiceImpl,main:33 - In service method call 
+09:53:23,158  INFO AuthenticationDaoImpl,main:40 - Amit
+09:53:23,159  INFO AuthenticationDaoImpl,main:48 - 101
+09:53:23,160  INFO AuthenticationDaoImpl,main:54 - Query is Excecuted
+09:53:23,161  INFO AuthenticationDaoImpl,main:61 - Final execution!!
+09:53:23,162  INFO AuthenticationServiceImpl,main:35 - com.flipkart.bean.User@4c98385c
+09:53:23,162  INFO AuthenticationServiceImpl,main:36 - After service method call 
+09:53:23,163  INFO SMSApplicationClient,main:101 - Checking user in NULL
+09:53:23,191 ERROR AdminDaoImpl,main:100 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+09:53:23,192  INFO SMSApplicationClient,main:47 - Enter your choice: 
+09:53:23,193  INFO SMSApplicationClient,main:48 - 0 :- Logout
+09:53:23,193  INFO SMSApplicationClient,main:49 - 1 :- Add User
+09:53:23,194  INFO SMSApplicationClient,main:50 - 2 :- Delete User
+09:53:23,195  INFO SMSApplicationClient,main:51 - 3 :- Update User
+09:53:23,196  INFO SMSApplicationClient,main:52 - 4 :- View Courses
+09:53:23,198  INFO SMSApplicationClient,main:53 - 5 :- Add Course
+09:53:23,199  INFO SMSApplicationClient,main:54 - 6 :- Delete Course
+09:54:09,422  INFO SMSApplicationClient,main:82 - Creating instance of service class
+09:54:09,434  INFO SMSApplicationClient,main:84 - Created instance after service class
+09:54:10,625  INFO SMSApplicationClient,main:38 - Enter your choice: 
+09:54:10,625  INFO SMSApplicationClient,main:39 - 0 :- Exit 
+09:54:10,626  INFO SMSApplicationClient,main:40 - 1 :- Login User 
+09:54:10,626  INFO SMSApplicationClient,main:41 - 2 :- Register User 
+09:54:15,421  INFO SMSApplicationClient,main:95 - Enter the userName: 
+09:54:19,721  INFO SMSApplicationClient,main:97 - Enter the password: 
+09:54:21,665  INFO AuthenticationServiceImpl,main:33 - In service method call 
+09:54:21,689  INFO AuthenticationDaoImpl,main:40 - Amit
+09:54:21,691  INFO AuthenticationDaoImpl,main:48 - 101
+09:54:21,692  INFO AuthenticationDaoImpl,main:54 - Query is Excecuted
+09:54:21,693  INFO AuthenticationDaoImpl,main:61 - Final execution!!
+09:54:21,694  INFO AuthenticationServiceImpl,main:35 - com.flipkart.bean.User@4c98385c
+09:54:21,694  INFO AuthenticationServiceImpl,main:36 - After service method call 
+09:54:21,694  INFO SMSApplicationClient,main:101 - Checking user in NULL
+09:54:21,695  INFO SMSApplicationClient,main:110 - Role of user1
+09:54:21,715 ERROR AdminDaoImpl,main:100 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+09:54:21,720  INFO SMSApplicationClient,main:47 - Enter your choice: 
+09:54:21,721  INFO SMSApplicationClient,main:48 - 0 :- Logout
+09:54:21,721  INFO SMSApplicationClient,main:49 - 1 :- Add User
+09:54:21,721  INFO SMSApplicationClient,main:50 - 2 :- Delete User
+09:54:21,722  INFO SMSApplicationClient,main:51 - 3 :- Update User
+09:54:21,722  INFO SMSApplicationClient,main:52 - 4 :- View Courses
+09:54:21,723  INFO SMSApplicationClient,main:53 - 5 :- Add Course
+09:54:21,723  INFO SMSApplicationClient,main:54 - 6 :- Delete Course
+09:56:22,647  INFO SMSApplicationClient,main:82 - Creating instance of service class
+09:56:22,654  INFO SMSApplicationClient,main:84 - Created instance after service class
+09:56:23,827  INFO SMSApplicationClient,main:38 - Enter your choice: 
+09:56:23,828  INFO SMSApplicationClient,main:39 - 0 :- Exit 
+09:56:23,829  INFO SMSApplicationClient,main:40 - 1 :- Login User 
+09:56:23,829  INFO SMSApplicationClient,main:41 - 2 :- Register User 
+09:56:28,738  INFO SMSApplicationClient,main:95 - Enter the userName: 
+09:56:32,777  INFO SMSApplicationClient,main:97 - Enter the password: 
+09:56:35,249  INFO AuthenticationServiceImpl,main:33 - In service method call 
+09:56:35,278  INFO AuthenticationDaoImpl,main:40 - Amit
+09:56:35,280  INFO AuthenticationDaoImpl,main:48 - 101
+09:56:35,280  INFO AuthenticationDaoImpl,main:54 - Query is Excecuted
+09:56:35,280  INFO AuthenticationDaoImpl,main:61 - Final execution!!
+09:56:35,281  INFO AuthenticationServiceImpl,main:35 - com.flipkart.bean.User@4c98385c
+09:56:35,281  INFO AuthenticationServiceImpl,main:36 - After service method call 
+09:56:35,282  INFO SMSApplicationClient,main:101 - Checking user in NULL
+09:56:35,282  INFO SMSApplicationClient,main:110 - Role of user1
+09:56:35,304 ERROR AdminDaoImpl,main:100 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+09:56:35,305  INFO SMSApplicationClient,main:115 - Giving admin choices
+09:56:35,306  INFO SMSApplicationClient,main:118 - adminChoice : -1
+09:56:35,306  INFO SMSApplicationClient,main:47 - Enter your choice: 
+09:56:35,307  INFO SMSApplicationClient,main:48 - 0 :- Logout
+09:56:35,308  INFO SMSApplicationClient,main:49 - 1 :- Add User
+09:56:35,309  INFO SMSApplicationClient,main:50 - 2 :- Delete User
+09:56:35,309  INFO SMSApplicationClient,main:51 - 3 :- Update User
+09:56:35,311  INFO SMSApplicationClient,main:52 - 4 :- View Courses
+09:56:35,312  INFO SMSApplicationClient,main:53 - 5 :- Add Course
+09:56:35,312  INFO SMSApplicationClient,main:54 - 6 :- Delete Course
+09:59:57,081  INFO SMSApplicationClient,main:82 - Creating instance of service class
+09:59:57,090  INFO SMSApplicationClient,main:84 - Created instance after service class
+09:59:58,585  INFO SMSApplicationClient,main:38 - Enter your choice: 
+09:59:58,585  INFO SMSApplicationClient,main:39 - 0 :- Exit 
+09:59:58,586  INFO SMSApplicationClient,main:40 - 1 :- Login User 
+09:59:58,586  INFO SMSApplicationClient,main:41 - 2 :- Register User 
+10:00:05,554  INFO SMSApplicationClient,main:96 - Enter the userName: 
+10:00:10,265  INFO SMSApplicationClient,main:98 - Enter the password: 
+10:00:13,018  INFO AuthenticationServiceImpl,main:33 - In service method call 
+10:00:13,049  INFO AuthenticationDaoImpl,main:40 - Amit
+10:00:13,053  INFO AuthenticationDaoImpl,main:48 - 101
+10:00:13,053  INFO AuthenticationDaoImpl,main:54 - Query is Excecuted
+10:00:13,054  INFO AuthenticationDaoImpl,main:61 - Final execution!!
+10:00:13,054  INFO AuthenticationServiceImpl,main:35 - com.flipkart.bean.User@4c98385c
+10:00:13,055  INFO AuthenticationServiceImpl,main:36 - After service method call 
+10:00:13,055  INFO SMSApplicationClient,main:102 - Checking user in NULL
+10:00:13,055  INFO SMSApplicationClient,main:111 - Role of user1
+10:00:13,073 ERROR AdminDaoImpl,main:100 - No value specified for parameter 1
+10:00:13,074  INFO SMSApplicationClient,main:116 - Giving admin choices
+10:00:13,074  INFO SMSApplicationClient,main:119 - adminChoice : -1
+10:00:13,075  INFO SMSApplicationClient,main:47 - Enter your choice: 
+10:00:13,075  INFO SMSApplicationClient,main:48 - 0 :- Logout
+10:00:13,076  INFO SMSApplicationClient,main:49 - 1 :- Add User
+10:00:13,077  INFO SMSApplicationClient,main:50 - 2 :- Delete User
+10:00:13,078  INFO SMSApplicationClient,main:51 - 3 :- Update User
+10:00:13,079  INFO SMSApplicationClient,main:52 - 4 :- View Courses
+10:00:13,080  INFO SMSApplicationClient,main:53 - 5 :- Add Course
+10:00:13,081  INFO SMSApplicationClient,main:54 - 6 :- Delete Course
+10:22:50,186  INFO SMSApplicationClient,main:38 - Enter your choice: 
+10:22:50,188  INFO SMSApplicationClient,main:39 - 0 :- Exit 
+10:22:50,189  INFO SMSApplicationClient,main:40 - 1 :- Login User 
+10:22:50,189  INFO SMSApplicationClient,main:41 - 2 :- Register User 
+10:25:05,014  INFO SMSApplicationClient,main:38 - Enter your choice: 
+10:25:05,018  INFO SMSApplicationClient,main:39 - 0 :- Exit 
+10:25:05,024  INFO SMSApplicationClient,main:40 - 1 :- Login User 
+10:25:05,025  INFO SMSApplicationClient,main:41 - 2 :- Register User 
+10:25:12,836  INFO SMSApplicationClient,main:94 - Enter the userName: 
+10:25:17,892  INFO SMSApplicationClient,main:96 - Enter the password: 
+10:25:21,906  INFO AuthenticationServiceImpl,main:33 - In service method call 
+10:25:21,993  INFO AuthenticationDaoImpl,main:41 - Amit
+10:25:21,995  INFO AuthenticationDaoImpl,main:49 - 101
+10:25:21,996  INFO AuthenticationDaoImpl,main:65 - Final execution!!
+10:25:21,996  INFO AuthenticationServiceImpl,main:35 - com.flipkart.bean.User@484b61fc
+10:25:21,996  INFO AuthenticationServiceImpl,main:36 - After service method call 
+10:25:22,026 ERROR AdminDaoImpl,main:108 - Before start of result set
+10:25:22,028  INFO SMSApplicationClient,main:47 - Enter your choice: 
+10:25:22,030  INFO SMSApplicationClient,main:48 - 0 :- Logout
+10:25:22,031  INFO SMSApplicationClient,main:49 - 1 :- Add User
+10:25:22,031  INFO SMSApplicationClient,main:50 - 2 :- Delete User
+10:25:22,032  INFO SMSApplicationClient,main:51 - 3 :- Update User
+10:25:22,033  INFO SMSApplicationClient,main:52 - 4 :- View Courses
+10:25:22,033  INFO SMSApplicationClient,main:53 - 5 :- Add Course
+10:25:22,033  INFO SMSApplicationClient,main:54 - 6 :- Delete Course
+10:26:43,230  INFO SMSApplicationClient,main:38 - Enter your choice: 
+10:26:43,238  INFO SMSApplicationClient,main:39 - 0 :- Exit 
+10:26:43,239  INFO SMSApplicationClient,main:40 - 1 :- Login User 
+10:26:43,240  INFO SMSApplicationClient,main:41 - 2 :- Register User 
+10:26:51,432  INFO SMSApplicationClient,main:94 - Enter the userName: 
+10:26:57,044  INFO SMSApplicationClient,main:96 - Enter the password: 
+10:26:59,805  INFO AuthenticationServiceImpl,main:33 - In service method call 
+10:26:59,853  INFO AuthenticationDaoImpl,main:41 - Amit
+10:26:59,854  INFO AuthenticationDaoImpl,main:49 - 101
+10:26:59,855  INFO AuthenticationDaoImpl,main:65 - Final execution!!
+10:26:59,855  INFO AuthenticationServiceImpl,main:35 - com.flipkart.bean.User@484b61fc
+10:26:59,856  INFO AuthenticationServiceImpl,main:36 - After service method call 
+10:26:59,863  INFO SMSApplicationClient,main:47 - Enter your choice: 
+10:26:59,864  INFO SMSApplicationClient,main:48 - 0 :- Logout
+10:26:59,870  INFO SMSApplicationClient,main:49 - 1 :- Add User
+10:26:59,871  INFO SMSApplicationClient,main:50 - 2 :- Delete User
+10:26:59,871  INFO SMSApplicationClient,main:51 - 3 :- Update User
+10:26:59,872  INFO SMSApplicationClient,main:52 - 4 :- View Courses
+10:26:59,872  INFO SMSApplicationClient,main:53 - 5 :- Add Course
+10:26:59,872  INFO SMSApplicationClient,main:54 - 6 :- Delete Course
+10:29:08,596  INFO SMSApplicationClient,main:38 - Enter your choice: 
+10:29:08,600  INFO SMSApplicationClient,main:39 - 0 :- Exit 
+10:29:08,600  INFO SMSApplicationClient,main:40 - 1 :- Login User 
+10:29:08,601  INFO SMSApplicationClient,main:41 - 2 :- Register User 
+10:29:16,452  INFO SMSApplicationClient,main:94 - Enter the userName: 
+10:29:21,124  INFO SMSApplicationClient,main:96 - Enter the password: 
+10:29:23,786  INFO AuthenticationServiceImpl,main:34 - com.flipkart.bean.User@4e515669
+10:29:23,788  INFO SMSApplicationClient,main:47 - Enter your choice: 
+10:29:23,789  INFO SMSApplicationClient,main:48 - 0 :- Logout
+10:29:23,790  INFO SMSApplicationClient,main:49 - 1 :- Add User
+10:29:23,792  INFO SMSApplicationClient,main:50 - 2 :- Delete User
+10:29:23,792  INFO SMSApplicationClient,main:51 - 3 :- Update User
+10:29:23,793  INFO SMSApplicationClient,main:52 - 4 :- View Courses
+10:29:23,797  INFO SMSApplicationClient,main:53 - 5 :- Add Course
+10:29:23,798  INFO SMSApplicationClient,main:54 - 6 :- Delete Course
+10:30:01,122  INFO SMSApplicationClient,main:38 - Enter your choice: 
+10:30:01,124  INFO SMSApplicationClient,main:39 - 0 :- Exit 
+10:30:01,125  INFO SMSApplicationClient,main:40 - 1 :- Login User 
+10:30:01,125  INFO SMSApplicationClient,main:41 - 2 :- Register User 
+10:30:07,621  INFO SMSApplicationClient,main:94 - Enter the userName: 
+10:30:11,516  INFO SMSApplicationClient,main:96 - Enter the password: 
+10:30:14,794  INFO SMSApplicationClient,main:47 - Enter your choice: 
+10:30:14,794  INFO SMSApplicationClient,main:48 - 0 :- Logout
+10:30:14,795  INFO SMSApplicationClient,main:49 - 1 :- Add User
+10:30:14,795  INFO SMSApplicationClient,main:50 - 2 :- Delete User
+10:30:14,795  INFO SMSApplicationClient,main:51 - 3 :- Update User
+10:30:14,796  INFO SMSApplicationClient,main:52 - 4 :- View Courses
+10:30:14,796  INFO SMSApplicationClient,main:53 - 5 :- Add Course
+10:30:14,797  INFO SMSApplicationClient,main:54 - 6 :- Delete Course
+10:35:12,382  INFO SMSApplicationClient,main:38 - Enter your choice: 
+10:35:12,384  INFO SMSApplicationClient,main:39 - 0 :- Exit 
+10:35:12,385  INFO SMSApplicationClient,main:40 - 1 :- Login User 
+10:35:12,385  INFO SMSApplicationClient,main:41 - 2 :- Register User 
+10:35:20,741  INFO SMSApplicationClient,main:94 - Enter the userName: 
+10:35:27,549  INFO SMSApplicationClient,main:96 - Enter the password: 
+10:35:30,339  INFO SMSApplicationClient,main:47 - Enter your choice: 
+10:35:30,340  INFO SMSApplicationClient,main:48 - 0 :- Logout
+10:35:30,340  INFO SMSApplicationClient,main:49 - 1 :- Add User
+10:35:30,341  INFO SMSApplicationClient,main:50 - 2 :- Delete User
+10:35:30,341  INFO SMSApplicationClient,main:51 - 3 :- Update User
+10:35:30,342  INFO SMSApplicationClient,main:52 - 4 :- View Courses
+10:35:30,342  INFO SMSApplicationClient,main:53 - 5 :- Add Course
+10:35:30,343  INFO SMSApplicationClient,main:54 - 6 :- Delete Course
+10:35:37,557  INFO SMSApplicationClient,main:121 - Enter the userName: 
+10:35:52,517  INFO SMSApplicationClient,main:123 - Enter the role: 
+10:35:58,093  INFO SMSApplicationClient,main:125 - Enter the First Name: 
+10:36:02,516  INFO SMSApplicationClient,main:127 - Enter the Last Name: 
+10:36:06,388  INFO SMSApplicationClient,main:129 - Enter the email address: 
+10:36:15,757  INFO SMSApplicationClient,main:47 - Enter your choice: 
+10:36:15,758  INFO SMSApplicationClient,main:48 - 0 :- Logout
+10:36:15,759  INFO SMSApplicationClient,main:49 - 1 :- Add User
+10:36:15,759  INFO SMSApplicationClient,main:50 - 2 :- Delete User
+10:36:15,760  INFO SMSApplicationClient,main:51 - 3 :- Update User
+10:36:15,761  INFO SMSApplicationClient,main:52 - 4 :- View Courses
+10:36:15,761  INFO SMSApplicationClient,main:53 - 5 :- Add Course
+10:36:15,762  INFO SMSApplicationClient,main:54 - 6 :- Delete Course
+11:05:51,483  INFO SMSApplicationClient,main:38 - Enter your choice: 
+11:05:51,485  INFO SMSApplicationClient,main:39 - 0 :- Exit 
+11:05:51,486  INFO SMSApplicationClient,main:40 - 1 :- Login User 
+11:05:51,486  INFO SMSApplicationClient,main:41 - 2 :- Register User 
+11:06:10,685  INFO SMSApplicationClient,main:94 - Enter the userName: 
+11:06:16,052  INFO SMSApplicationClient,main:96 - Enter the password: 
+11:06:18,793  INFO SMSApplicationClient,main:47 - Enter your choice: 
+11:06:18,794  INFO SMSApplicationClient,main:48 - 0 :- Logout
+11:06:18,795  INFO SMSApplicationClient,main:49 - 1 :- Add User
+11:06:18,795  INFO SMSApplicationClient,main:50 - 2 :- Delete User
+11:06:18,795  INFO SMSApplicationClient,main:51 - 3 :- Update User
+11:06:18,796  INFO SMSApplicationClient,main:52 - 4 :- View Courses
+11:06:18,796  INFO SMSApplicationClient,main:53 - 5 :- Add Course
+11:06:18,797  INFO SMSApplicationClient,main:54 - 6 :- Delete Course
+11:06:32,262 ERROR UserDaoImpl,main:40 - Can not issue executeUpdate() for SELECTs
+11:06:32,263  INFO SMSApplicationClient,main:47 - Enter your choice: 
+11:06:32,263  INFO SMSApplicationClient,main:48 - 0 :- Logout
+11:06:32,263  INFO SMSApplicationClient,main:49 - 1 :- Add User
+11:06:32,264  INFO SMSApplicationClient,main:50 - 2 :- Delete User
+11:06:32,264  INFO SMSApplicationClient,main:51 - 3 :- Update User
+11:06:32,264  INFO SMSApplicationClient,main:52 - 4 :- View Courses
+11:06:32,265  INFO SMSApplicationClient,main:53 - 5 :- Add Course
+11:06:32,265  INFO SMSApplicationClient,main:54 - 6 :- Delete Course
+11:07:14,398 ERROR UserDaoImpl,main:40 - Can not issue executeUpdate() for SELECTs
+11:07:14,399  INFO SMSApplicationClient,main:47 - Enter your choice: 
+11:07:14,399  INFO SMSApplicationClient,main:48 - 0 :- Logout
+11:07:14,400  INFO SMSApplicationClient,main:49 - 1 :- Add User
+11:07:14,400  INFO SMSApplicationClient,main:50 - 2 :- Delete User
+11:07:14,405  INFO SMSApplicationClient,main:51 - 3 :- Update User
+11:07:14,405  INFO SMSApplicationClient,main:52 - 4 :- View Courses
+11:07:14,406  INFO SMSApplicationClient,main:53 - 5 :- Add Course
+11:07:14,406  INFO SMSApplicationClient,main:54 - 6 :- Delete Course
+11:07:23,749  INFO SMSApplicationClient,main:38 - Enter your choice: 
+11:07:23,752  INFO SMSApplicationClient,main:39 - 0 :- Exit 
+11:07:23,752  INFO SMSApplicationClient,main:40 - 1 :- Login User 
+11:07:23,752  INFO SMSApplicationClient,main:41 - 2 :- Register User 
+11:07:31,565  INFO SMSApplicationClient,main:94 - Enter the userName: 
+11:07:37,996  INFO SMSApplicationClient,main:96 - Enter the password: 
+11:07:42,094  INFO SMSApplicationClient,main:47 - Enter your choice: 
+11:07:42,095  INFO SMSApplicationClient,main:48 - 0 :- Logout
+11:07:42,095  INFO SMSApplicationClient,main:49 - 1 :- Add User
+11:07:42,095  INFO SMSApplicationClient,main:50 - 2 :- Delete User
+11:07:42,096  INFO SMSApplicationClient,main:51 - 3 :- Update User
+11:07:42,096  INFO SMSApplicationClient,main:52 - 4 :- View Courses
+11:07:42,097  INFO SMSApplicationClient,main:53 - 5 :- Add Course
+11:07:42,097  INFO SMSApplicationClient,main:54 - 6 :- Delete Course
+11:07:51,602  INFO SMSApplicationClient,main:47 - Enter your choice: 
+11:07:51,603  INFO SMSApplicationClient,main:48 - 0 :- Logout
+11:07:51,603  INFO SMSApplicationClient,main:49 - 1 :- Add User
+11:07:51,604  INFO SMSApplicationClient,main:50 - 2 :- Delete User
+11:07:51,605  INFO SMSApplicationClient,main:51 - 3 :- Update User
+11:07:51,605  INFO SMSApplicationClient,main:52 - 4 :- View Courses
+11:07:51,606  INFO SMSApplicationClient,main:53 - 5 :- Add Course
+11:07:51,606  INFO SMSApplicationClient,main:54 - 6 :- Delete Course
+11:09:17,092  INFO SMSApplicationClient,main:38 - Enter your choice: 
+11:09:17,094  INFO SMSApplicationClient,main:39 - 0 :- Exit 
+11:09:17,095  INFO SMSApplicationClient,main:40 - 1 :- Login User 
+11:09:17,095  INFO SMSApplicationClient,main:41 - 2 :- Register User 
+11:09:25,405  INFO SMSApplicationClient,main:94 - Enter the userName: 
+11:09:29,037  INFO SMSApplicationClient,main:96 - Enter the password: 
+11:09:31,181  INFO SMSApplicationClient,main:47 - Enter your choice: 
+11:09:31,190  INFO SMSApplicationClient,main:48 - 0 :- Logout
+11:09:31,191  INFO SMSApplicationClient,main:49 - 1 :- Add User
+11:09:31,192  INFO SMSApplicationClient,main:50 - 2 :- Delete User
+11:09:31,192  INFO SMSApplicationClient,main:51 - 3 :- Update User
+11:09:31,193  INFO SMSApplicationClient,main:52 - 4 :- View Courses
+11:09:31,194  INFO SMSApplicationClient,main:53 - 5 :- Add Course
+11:09:31,194  INFO SMSApplicationClient,main:54 - 6 :- Delete Course
+11:09:34,903  INFO SMSApplicationClient,main:47 - Enter your choice: 
+11:09:34,904  INFO SMSApplicationClient,main:48 - 0 :- Logout
+11:09:34,904  INFO SMSApplicationClient,main:49 - 1 :- Add User
+11:09:34,905  INFO SMSApplicationClient,main:50 - 2 :- Delete User
+11:09:34,905  INFO SMSApplicationClient,main:51 - 3 :- Update User
+11:09:34,906  INFO SMSApplicationClient,main:52 - 4 :- View Courses
+11:09:34,906  INFO SMSApplicationClient,main:53 - 5 :- Add Course
+11:09:34,906  INFO SMSApplicationClient,main:54 - 6 :- Delete Course
+11:16:12,693  INFO SMSApplicationClient,main:39 - Enter your choice: 
+11:16:12,697  INFO SMSApplicationClient,main:40 - 0 :- Exit 
+11:16:12,697  INFO SMSApplicationClient,main:41 - 1 :- Login User 
+11:16:12,697  INFO SMSApplicationClient,main:42 - 2 :- Register User 
+11:16:21,781  INFO SMSApplicationClient,main:95 - Enter the userName: 
+11:16:27,100  INFO SMSApplicationClient,main:97 - Enter the password: 
+11:16:30,686  INFO SMSApplicationClient,main:48 - Enter your choice: 
+11:16:30,686  INFO SMSApplicationClient,main:49 - 0 :- Logout
+11:16:30,687  INFO SMSApplicationClient,main:50 - 1 :- Add User
+11:16:30,687  INFO SMSApplicationClient,main:51 - 2 :- Delete User
+11:16:30,688  INFO SMSApplicationClient,main:52 - 3 :- Update User
+11:16:30,688  INFO SMSApplicationClient,main:53 - 4 :- View Courses
+11:16:30,689  INFO SMSApplicationClient,main:54 - 5 :- Add Course
+11:16:30,689  INFO SMSApplicationClient,main:55 - 6 :- Delete Course
+11:16:34,624  INFO SMSApplicationClient,main:162 - courseID: 1		courseName: Operating System		courseDescription: NA
+11:16:34,624  INFO SMSApplicationClient,main:48 - Enter your choice: 
+11:16:34,625  INFO SMSApplicationClient,main:49 - 0 :- Logout
+11:16:34,625  INFO SMSApplicationClient,main:50 - 1 :- Add User
+11:16:34,626  INFO SMSApplicationClient,main:51 - 2 :- Delete User
+11:16:34,628  INFO SMSApplicationClient,main:52 - 3 :- Update User
+11:16:34,629  INFO SMSApplicationClient,main:53 - 4 :- View Courses
+11:16:34,629  INFO SMSApplicationClient,main:54 - 5 :- Add Course
+11:16:34,630  INFO SMSApplicationClient,main:55 - 6 :- Delete Course
+15:19:51,596  INFO SMSApplicationClient,main:42 - Enter your choice: 
+15:19:51,634  INFO SMSApplicationClient,main:43 - 0 :- Exit 
+15:19:51,635  INFO SMSApplicationClient,main:44 - 1 :- Login User 
+15:19:51,635  INFO SMSApplicationClient,main:45 - 2 :- Register User 
+15:21:05,070  INFO SMSApplicationClient,main:109 - Enter the userName: 
+15:21:12,202  INFO SMSApplicationClient,main:111 - Enter the password: 
+15:21:20,222  INFO SMSApplicationClient,main:51 - Enter your choice: 
+15:21:20,223  INFO SMSApplicationClient,main:52 - 0 :- Logout
+15:21:20,223  INFO SMSApplicationClient,main:53 - 1 :- Add User
+15:21:20,224  INFO SMSApplicationClient,main:54 - 2 :- Delete User
+15:21:20,224  INFO SMSApplicationClient,main:55 - 3 :- Update User
+15:21:20,225  INFO SMSApplicationClient,main:56 - 4 :- View Courses
+15:21:20,225  INFO SMSApplicationClient,main:57 - 5 :- Add Course
+15:21:20,225  INFO SMSApplicationClient,main:58 - 6 :- Delete Course
+15:21:44,354  INFO SMSApplicationClient,main:136 - Enter the userName: 
+15:21:54,945  INFO SMSApplicationClient,main:138 - Enter the role: 
+15:22:00,090  INFO SMSApplicationClient,main:140 - Enter the First Name: 
+15:22:04,624  INFO SMSApplicationClient,main:142 - Enter the Last Name: 
+15:22:09,008  INFO SMSApplicationClient,main:144 - Enter the email address: 
+15:22:18,528  INFO SMSApplicationClient,main:51 - Enter your choice: 
+15:22:18,529  INFO SMSApplicationClient,main:52 - 0 :- Logout
+15:22:18,529  INFO SMSApplicationClient,main:53 - 1 :- Add User
+15:22:18,530  INFO SMSApplicationClient,main:54 - 2 :- Delete User
+15:22:18,530  INFO SMSApplicationClient,main:55 - 3 :- Update User
+15:22:18,531  INFO SMSApplicationClient,main:56 - 4 :- View Courses
+15:22:18,531  INFO SMSApplicationClient,main:57 - 5 :- Add Course
+15:22:18,532  INFO SMSApplicationClient,main:58 - 6 :- Delete Course
+15:25:23,097  INFO SMSApplicationClient,main:149 - Enter the userName: 
+15:25:42,045 ERROR AdminDaoImpl,main:51 - Parameter index out of range (1 > number of parameters, which is 0).
+15:25:42,045  INFO SMSApplicationClient,main:51 - Enter your choice: 
+15:25:42,045  INFO SMSApplicationClient,main:52 - 0 :- Logout
+15:25:42,046  INFO SMSApplicationClient,main:53 - 1 :- Add User
+15:25:42,046  INFO SMSApplicationClient,main:54 - 2 :- Delete User
+15:25:42,046  INFO SMSApplicationClient,main:55 - 3 :- Update User
+15:25:42,046  INFO SMSApplicationClient,main:56 - 4 :- View Courses
+15:25:42,046  INFO SMSApplicationClient,main:57 - 5 :- Add Course
+15:25:42,047  INFO SMSApplicationClient,main:58 - 6 :- Delete Course
+21:08:35,792  INFO SMSApplicationClient,main:45 - Enter your choice: 
+21:08:35,809  INFO SMSApplicationClient,main:46 - 0 :- Exit 
+21:08:35,809  INFO SMSApplicationClient,main:47 - 1 :- Login User 
+21:08:35,809  INFO SMSApplicationClient,main:48 - 2 :- Register User 
+21:08:46,958  INFO SMSApplicationClient,main:290 - Enter the userName: 
+21:09:12,625  INFO SMSApplicationClient,main:292 - Enter the role: 
+21:11:41,436  INFO SMSApplicationClient,main:45 - Enter your choice: 
+21:11:41,436  INFO SMSApplicationClient,main:46 - 0 :- Exit 
+21:11:41,436  INFO SMSApplicationClient,main:47 - 1 :- Login User 
+21:11:41,436  INFO SMSApplicationClient,main:48 - 2 :- Register User 
+21:11:56,757  INFO SMSApplicationClient,main:296 - Enter the userName: 
+21:12:06,356  INFO SMSApplicationClient,main:298 - Enter the role: 
+21:12:06,361  INFO SMSApplicationClient,main:95 - 1 :- Admin
+21:12:06,361  INFO SMSApplicationClient,main:96 - 1 :- Student
+21:12:06,362  INFO SMSApplicationClient,main:97 - 2 :- Professor
+21:12:24,014  INFO SMSApplicationClient,main:301 - Enter the First Name: 
+21:12:27,379  INFO SMSApplicationClient,main:303 - Enter the Last Name: 
+21:12:28,933  INFO SMSApplicationClient,main:305 - Enter the email address: 
+21:12:31,869 ERROR UserDaoImpl,main:66 - Unknown column 'isApproved' in 'field list'
+21:12:31,886  INFO SMSApplicationClient,main:311 - Registration Failed!!!
+21:12:31,887  INFO SMSApplicationClient,main:45 - Enter your choice: 
+21:12:31,888  INFO SMSApplicationClient,main:46 - 0 :- Exit 
+21:12:31,888  INFO SMSApplicationClient,main:47 - 1 :- Login User 
+21:12:31,888  INFO SMSApplicationClient,main:48 - 2 :- Register User 
+21:21:28,405  INFO SMSApplicationClient,main:45 - Enter your choice: 
+21:21:28,405  INFO SMSApplicationClient,main:46 - 0 :- Exit 
+21:21:28,405  INFO SMSApplicationClient,main:47 - 1 :- Login User 
+21:21:28,405  INFO SMSApplicationClient,main:48 - 2 :- Register User 
+21:21:38,331  INFO SMSApplicationClient,main:296 - Enter the userName: 
+21:21:45,432  INFO SMSApplicationClient,main:298 - Enter the role: 
+21:21:45,442  INFO SMSApplicationClient,main:95 - 1 :- Admin
+21:21:45,442  INFO SMSApplicationClient,main:96 - 2 :- Student
+21:21:45,443  INFO SMSApplicationClient,main:97 - 3 :- Professor
+21:21:47,897  INFO SMSApplicationClient,main:301 - Enter the First Name: 
+21:21:51,110  INFO SMSApplicationClient,main:303 - Enter the Last Name: 
+21:21:52,482  INFO SMSApplicationClient,main:305 - Enter the email address: 
+21:21:57,062 ERROR UserDaoImpl,main:69 - No value specified for parameter 7
+21:21:57,068  INFO SMSApplicationClient,main:311 - Registration Failed!!!
+21:21:57,068  INFO SMSApplicationClient,main:45 - Enter your choice: 
+21:21:57,068  INFO SMSApplicationClient,main:46 - 0 :- Exit 
+21:21:57,069  INFO SMSApplicationClient,main:47 - 1 :- Login User 
+21:21:57,069  INFO SMSApplicationClient,main:48 - 2 :- Register User 
+21:22:46,073  INFO SMSApplicationClient,main:45 - Enter your choice: 
+21:22:46,073  INFO SMSApplicationClient,main:46 - 0 :- Exit 
+21:22:46,073  INFO SMSApplicationClient,main:47 - 1 :- Login User 
+21:22:46,073  INFO SMSApplicationClient,main:48 - 2 :- Register User 
+21:22:57,319  INFO SMSApplicationClient,main:296 - Enter the userName: 
+21:23:03,245  INFO SMSApplicationClient,main:298 - Enter the role: 
+21:23:03,249  INFO SMSApplicationClient,main:95 - 1 :- Admin
+21:23:03,249  INFO SMSApplicationClient,main:96 - 2 :- Student
+21:23:03,250  INFO SMSApplicationClient,main:97 - 3 :- Professor
+21:23:05,408  INFO SMSApplicationClient,main:301 - Enter the First Name: 
+21:23:09,365  INFO SMSApplicationClient,main:303 - Enter the Last Name: 
+21:23:11,058  INFO SMSApplicationClient,main:305 - Enter the email address: 
+21:23:13,481 ERROR UserDaoImpl,main:69 - Duplicate entry '1' for key 1
+21:23:13,484  INFO SMSApplicationClient,main:311 - Registration Failed!!!
+21:23:13,484  INFO SMSApplicationClient,main:45 - Enter your choice: 
+21:23:13,484  INFO SMSApplicationClient,main:46 - 0 :- Exit 
+21:23:13,485  INFO SMSApplicationClient,main:47 - 1 :- Login User 
+21:23:13,485  INFO SMSApplicationClient,main:48 - 2 :- Register User 
+21:25:58,185  INFO SMSApplicationClient,main:45 - Enter your choice: 
+21:25:58,197  INFO SMSApplicationClient,main:46 - 0 :- Exit 
+21:25:58,197  INFO SMSApplicationClient,main:47 - 1 :- Login User 
+21:25:58,197  INFO SMSApplicationClient,main:48 - 2 :- Register User 
+21:26:07,572  INFO SMSApplicationClient,main:296 - Enter the userName: 
+21:26:12,615  INFO SMSApplicationClient,main:298 - Enter the role: 
+21:26:12,617  INFO SMSApplicationClient,main:95 - 1 :- Admin
+21:26:12,617  INFO SMSApplicationClient,main:96 - 2 :- Student
+21:26:12,618  INFO SMSApplicationClient,main:97 - 3 :- Professor
+21:26:16,447  INFO SMSApplicationClient,main:301 - Enter the First Name: 
+21:26:20,677  INFO SMSApplicationClient,main:303 - Enter the Last Name: 
+21:26:21,932  INFO SMSApplicationClient,main:305 - Enter the email address: 
+21:26:25,024 ERROR UserDaoImpl,main:69 - Duplicate entry '1' for key 1
+21:26:25,035  INFO SMSApplicationClient,main:311 - Registration Failed!!!
+21:26:25,035  INFO SMSApplicationClient,main:45 - Enter your choice: 
+21:26:25,036  INFO SMSApplicationClient,main:46 - 0 :- Exit 
+21:26:25,037  INFO SMSApplicationClient,main:47 - 1 :- Login User 
+21:26:25,037  INFO SMSApplicationClient,main:48 - 2 :- Register User 
+21:27:52,792  INFO SMSApplicationClient,main:45 - Enter your choice: 
+21:27:52,807  INFO SMSApplicationClient,main:46 - 0 :- Exit 
+21:27:52,807  INFO SMSApplicationClient,main:47 - 1 :- Login User 
+21:27:52,807  INFO SMSApplicationClient,main:48 - 2 :- Register User 
+21:27:55,889  INFO SMSApplicationClient,main:296 - Enter the userName: 
+21:28:03,219  INFO SMSApplicationClient,main:298 - Enter the role: 
+21:28:03,226  INFO SMSApplicationClient,main:95 - 1 :- Admin
+21:28:03,226  INFO SMSApplicationClient,main:96 - 2 :- Student
+21:28:03,227  INFO SMSApplicationClient,main:97 - 3 :- Professor
+21:28:32,808  INFO SMSApplicationClient,main:45 - Enter your choice: 
+21:28:32,808  INFO SMSApplicationClient,main:46 - 0 :- Exit 
+21:28:32,808  INFO SMSApplicationClient,main:47 - 1 :- Login User 
+21:28:32,808  INFO SMSApplicationClient,main:48 - 2 :- Register User 
+21:28:43,154  INFO SMSApplicationClient,main:296 - Enter the userName: 
+21:28:45,710  INFO SMSApplicationClient,main:298 - Enter the role: 
+21:28:45,714  INFO SMSApplicationClient,main:95 - 1 :- Admin
+21:28:45,714  INFO SMSApplicationClient,main:96 - 2 :- Student
+21:28:45,714  INFO SMSApplicationClient,main:97 - 3 :- Professor
+21:28:56,413  INFO SMSApplicationClient,main:45 - Enter your choice: 
+21:28:56,413  INFO SMSApplicationClient,main:46 - 0 :- Exit 
+21:28:56,413  INFO SMSApplicationClient,main:47 - 1 :- Login User 
+21:28:56,413  INFO SMSApplicationClient,main:48 - 2 :- Register User 
+21:29:05,290  INFO SMSApplicationClient,main:296 - Enter the userName: 
+21:29:07,658  INFO SMSApplicationClient,main:298 - Enter the role: 
+21:29:07,674  INFO SMSApplicationClient,main:95 - 1 :- Admin
+21:29:07,674  INFO SMSApplicationClient,main:96 - 2 :- Student
+21:29:07,675  INFO SMSApplicationClient,main:97 - 3 :- Professor
+21:35:59,020  INFO SMSApplicationClient,main:45 - Enter your choice: 
+21:35:59,036  INFO SMSApplicationClient,main:46 - 0 :- Exit 
+21:35:59,036  INFO SMSApplicationClient,main:47 - 1 :- Login User 
+21:35:59,037  INFO SMSApplicationClient,main:48 - 2 :- Register User 
+21:36:08,639  INFO SMSApplicationClient,main:296 - Enter the userName: 
+21:36:13,334  INFO SMSApplicationClient,main:298 - Enter the role: 
+21:36:13,338  INFO SMSApplicationClient,main:95 - 1 :- Admin
+21:36:13,338  INFO SMSApplicationClient,main:96 - 2 :- Student
+21:36:13,339  INFO SMSApplicationClient,main:97 - 3 :- Professor
+21:36:16,464  INFO SMSApplicationClient,main:301 - Enter the First Name: 
+21:36:21,085  INFO SMSApplicationClient,main:303 - Enter the Last Name: 
+21:36:23,138  INFO SMSApplicationClient,main:305 - Enter the email address: 
+21:36:26,725 ERROR UserDaoImpl,main:68 - Field 'password' doesn't have a default value
+21:36:26,735  INFO SMSApplicationClient,main:311 - Registration Failed!!!
+21:36:26,736  INFO SMSApplicationClient,main:45 - Enter your choice: 
+21:36:26,736  INFO SMSApplicationClient,main:46 - 0 :- Exit 
+21:36:26,736  INFO SMSApplicationClient,main:47 - 1 :- Login User 
+21:36:26,736  INFO SMSApplicationClient,main:48 - 2 :- Register User 
+21:37:04,657  INFO SMSApplicationClient,main:45 - Enter your choice: 
+21:37:04,657  INFO SMSApplicationClient,main:46 - 0 :- Exit 
+21:37:04,657  INFO SMSApplicationClient,main:47 - 1 :- Login User 
+21:37:04,657  INFO SMSApplicationClient,main:48 - 2 :- Register User 
+21:37:13,911  INFO SMSApplicationClient,main:296 - Enter the userName: 
+21:37:18,837  INFO SMSApplicationClient,main:298 - Enter the role: 
+21:37:18,842  INFO SMSApplicationClient,main:95 - 1 :- Admin
+21:37:18,842  INFO SMSApplicationClient,main:96 - 2 :- Student
+21:37:18,843  INFO SMSApplicationClient,main:97 - 3 :- Professor
+21:37:21,014  INFO SMSApplicationClient,main:301 - Enter the First Name: 
+21:37:25,776  INFO SMSApplicationClient,main:303 - Enter the Last Name: 
+21:37:28,365  INFO SMSApplicationClient,main:305 - Enter the email address: 
+21:37:31,004  INFO SMSApplicationClient,main:309 - Registration is successful!!!
+21:37:31,010  INFO SMSApplicationClient,main:45 - Enter your choice: 
+21:37:31,010  INFO SMSApplicationClient,main:46 - 0 :- Exit 
+21:37:31,012  INFO SMSApplicationClient,main:47 - 1 :- Login User 
+21:37:31,012  INFO SMSApplicationClient,main:48 - 2 :- Register User 
+21:58:30,058  INFO SMSApplicationClient,main:45 - Enter your choice: 
+21:58:30,058  INFO SMSApplicationClient,main:46 - 0 :- Exit 
+21:58:30,058  INFO SMSApplicationClient,main:47 - 1 :- Login User 
+21:58:30,058  INFO SMSApplicationClient,main:48 - 2 :- Register User 
+21:58:38,482  INFO SMSApplicationClient,main:296 - Enter the userName: 
+21:58:43,670  INFO SMSApplicationClient,main:298 - Enter the role: 
+21:58:43,681  INFO SMSApplicationClient,main:95 - 1 :- Admin
+21:58:43,681  INFO SMSApplicationClient,main:96 - 2 :- Student
+21:58:43,682  INFO SMSApplicationClient,main:97 - 3 :- Professor
+21:58:45,339  INFO SMSApplicationClient,main:301 - Enter the First Name: 
+21:58:49,214  INFO SMSApplicationClient,main:303 - Enter the Last Name: 
+21:58:52,226  INFO SMSApplicationClient,main:305 - Enter the email address: 
+21:58:54,312 ERROR UserDaoImpl,main:82 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT userNamefrom login WHERE userName = 'admin') AS userCount' at line 1
+21:58:54,324  INFO SMSApplicationClient,main:311 - Registration Failed!!!
+21:58:54,324  INFO SMSApplicationClient,main:45 - Enter your choice: 
+21:58:54,325  INFO SMSApplicationClient,main:46 - 0 :- Exit 
+21:58:54,325  INFO SMSApplicationClient,main:47 - 1 :- Login User 
+21:58:54,325  INFO SMSApplicationClient,main:48 - 2 :- Register User 
+22:01:50,284  INFO SMSApplicationClient,main:45 - Enter your choice: 
+22:01:50,284  INFO SMSApplicationClient,main:46 - 0 :- Exit 
+22:01:50,284  INFO SMSApplicationClient,main:47 - 1 :- Login User 
+22:01:50,284  INFO SMSApplicationClient,main:48 - 2 :- Register User 
+22:01:59,720  INFO SMSApplicationClient,main:296 - Enter the userName: 
+22:02:01,809  INFO SMSApplicationClient,main:298 - Enter the role: 
+22:02:01,810  INFO SMSApplicationClient,main:95 - 1 :- Admin
+22:02:01,810  INFO SMSApplicationClient,main:96 - 2 :- Student
+22:02:01,811  INFO SMSApplicationClient,main:97 - 3 :- Professor
+22:02:03,765  INFO SMSApplicationClient,main:301 - Enter the First Name: 
+22:02:09,145  INFO SMSApplicationClient,main:303 - Enter the Last Name: 
+22:02:13,068  INFO SMSApplicationClient,main:305 - Enter the email address: 
+22:02:15,098 ERROR UserDaoImpl,main:82 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT userName from login WHERE userName = 'admin') AS userCount' at line 1
+22:02:15,100  INFO SMSApplicationClient,main:311 - Registration Failed!!!
+22:02:15,100  INFO SMSApplicationClient,main:45 - Enter your choice: 
+22:02:15,100  INFO SMSApplicationClient,main:46 - 0 :- Exit 
+22:02:15,100  INFO SMSApplicationClient,main:47 - 1 :- Login User 
+22:02:15,101  INFO SMSApplicationClient,main:48 - 2 :- Register User 
+22:04:22,507  INFO SMSApplicationClient,main:45 - Enter your choice: 
+22:04:22,511  INFO SMSApplicationClient,main:46 - 0 :- Exit 
+22:04:22,511  INFO SMSApplicationClient,main:47 - 1 :- Login User 
+22:04:22,511  INFO SMSApplicationClient,main:48 - 2 :- Register User 
+22:04:31,790  INFO SMSApplicationClient,main:296 - Enter the userName: 
+22:04:35,127  INFO SMSApplicationClient,main:298 - Enter the role: 
+22:04:35,137  INFO SMSApplicationClient,main:95 - 1 :- Admin
+22:04:35,137  INFO SMSApplicationClient,main:96 - 2 :- Student
+22:04:35,139  INFO SMSApplicationClient,main:97 - 3 :- Professor
+22:04:37,310  INFO SMSApplicationClient,main:301 - Enter the First Name: 
+22:04:41,182  INFO SMSApplicationClient,main:303 - Enter the Last Name: 
+22:04:43,389  INFO SMSApplicationClient,main:305 - Enter the email address: 
+22:04:46,880 ERROR UserDaoImpl,main:82 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS userCount' at line 1
+22:04:46,884  INFO SMSApplicationClient,main:311 - Registration Failed!!!
+22:04:46,884  INFO SMSApplicationClient,main:45 - Enter your choice: 
+22:04:46,884  INFO SMSApplicationClient,main:46 - 0 :- Exit 
+22:04:46,885  INFO SMSApplicationClient,main:47 - 1 :- Login User 
+22:04:46,885  INFO SMSApplicationClient,main:48 - 2 :- Register User 
+22:05:35,075  INFO SMSApplicationClient,main:45 - Enter your choice: 
+22:05:35,075  INFO SMSApplicationClient,main:46 - 0 :- Exit 
+22:05:35,075  INFO SMSApplicationClient,main:47 - 1 :- Login User 
+22:05:35,075  INFO SMSApplicationClient,main:48 - 2 :- Register User 
+22:05:45,808  INFO SMSApplicationClient,main:296 - Enter the userName: 
+22:05:54,381  INFO SMSApplicationClient,main:298 - Enter the role: 
+22:05:54,394  INFO SMSApplicationClient,main:95 - 1 :- Admin
+22:05:54,394  INFO SMSApplicationClient,main:96 - 2 :- Student
+22:05:54,395  INFO SMSApplicationClient,main:97 - 3 :- Professor
+22:06:15,879  INFO SMSApplicationClient,main:45 - Enter your choice: 
+22:06:15,879  INFO SMSApplicationClient,main:46 - 0 :- Exit 
+22:06:15,879  INFO SMSApplicationClient,main:47 - 1 :- Login User 
+22:06:15,879  INFO SMSApplicationClient,main:48 - 2 :- Register User 
+22:06:25,904  INFO SMSApplicationClient,main:296 - Enter the userName: 
+22:06:29,665  INFO SMSApplicationClient,main:298 - Enter the role: 
+22:06:29,666  INFO SMSApplicationClient,main:95 - 1 :- Admin
+22:06:29,666  INFO SMSApplicationClient,main:96 - 2 :- Student
+22:06:29,667  INFO SMSApplicationClient,main:97 - 3 :- Professor
+22:06:36,730  INFO SMSApplicationClient,main:301 - Enter the First Name: 
+22:06:39,232  INFO SMSApplicationClient,main:303 - Enter the Last Name: 
+22:06:41,344  INFO SMSApplicationClient,main:305 - Enter the email address: 
+22:06:43,019 ERROR UserDaoImpl,main:82 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS userCount' at line 1
+22:06:43,024  INFO SMSApplicationClient,main:311 - Registration Failed!!!
+22:06:43,025  INFO SMSApplicationClient,main:45 - Enter your choice: 
+22:06:43,025  INFO SMSApplicationClient,main:46 - 0 :- Exit 
+22:06:43,026  INFO SMSApplicationClient,main:47 - 1 :- Login User 
+22:06:43,026  INFO SMSApplicationClient,main:48 - 2 :- Register User 
+22:07:46,406  INFO SMSApplicationClient,main:45 - Enter your choice: 
+22:07:46,406  INFO SMSApplicationClient,main:46 - 0 :- Exit 
+22:07:46,406  INFO SMSApplicationClient,main:47 - 1 :- Login User 
+22:07:46,406  INFO SMSApplicationClient,main:48 - 2 :- Register User 
+22:07:56,522  INFO SMSApplicationClient,main:296 - Enter the userName: 
+22:08:10,794  INFO SMSApplicationClient,main:298 - Enter the role: 
+22:08:10,809  INFO SMSApplicationClient,main:95 - 1 :- Admin
+22:08:10,809  INFO SMSApplicationClient,main:96 - 2 :- Student
+22:08:10,810  INFO SMSApplicationClient,main:97 - 3 :- Professor
+22:08:22,009  INFO SMSApplicationClient,main:45 - Enter your choice: 
+22:08:22,009  INFO SMSApplicationClient,main:46 - 0 :- Exit 
+22:08:22,009  INFO SMSApplicationClient,main:47 - 1 :- Login User 
+22:08:22,009  INFO SMSApplicationClient,main:48 - 2 :- Register User 
+22:08:40,961  INFO SMSApplicationClient,main:296 - Enter the userName: 
+22:08:45,314  INFO SMSApplicationClient,main:298 - Enter the role: 
+22:08:45,322  INFO SMSApplicationClient,main:95 - 1 :- Admin
+22:08:45,322  INFO SMSApplicationClient,main:96 - 2 :- Student
+22:08:45,323  INFO SMSApplicationClient,main:97 - 3 :- Professor
+22:08:47,886  INFO SMSApplicationClient,main:301 - Enter the First Name: 
+22:08:49,633  INFO SMSApplicationClient,main:303 - Enter the Last Name: 
+22:08:51,409  INFO SMSApplicationClient,main:305 - Enter the email address: 
+22:08:53,739 ERROR UserDaoImpl,main:79 - 
+22:08:53,750  INFO SMSApplicationClient,main:311 - Registration Failed!!!
+22:08:53,750  INFO SMSApplicationClient,main:45 - Enter your choice: 
+22:08:53,750  INFO SMSApplicationClient,main:46 - 0 :- Exit 
+22:08:53,751  INFO SMSApplicationClient,main:47 - 1 :- Login User 
+22:08:53,751  INFO SMSApplicationClient,main:48 - 2 :- Register User 
+22:10:32,816  INFO SMSApplicationClient,main:45 - Enter your choice: 
+22:10:32,816  INFO SMSApplicationClient,main:46 - 0 :- Exit 
+22:10:32,816  INFO SMSApplicationClient,main:47 - 1 :- Login User 
+22:10:32,816  INFO SMSApplicationClient,main:48 - 2 :- Register User 
+22:10:42,846  INFO SMSApplicationClient,main:296 - Enter the userName: 
+22:10:45,288  INFO SMSApplicationClient,main:298 - Enter the role: 
+22:10:45,290  INFO SMSApplicationClient,main:95 - 1 :- Admin
+22:10:45,290  INFO SMSApplicationClient,main:96 - 2 :- Student
+22:10:45,290  INFO SMSApplicationClient,main:97 - 3 :- Professor
+22:10:47,089  INFO SMSApplicationClient,main:301 - Enter the First Name: 
+22:10:49,848  INFO SMSApplicationClient,main:303 - Enter the Last Name: 
+22:10:51,804  INFO SMSApplicationClient,main:305 - Enter the email address: 
+22:10:53,834 ERROR UserDaoImpl,main:79 - userName not availablenull
+22:10:53,836  INFO SMSApplicationClient,main:311 - Registration Failed!!!
+22:10:53,836  INFO SMSApplicationClient,main:45 - Enter your choice: 
+22:10:53,837  INFO SMSApplicationClient,main:46 - 0 :- Exit 
+22:10:53,837  INFO SMSApplicationClient,main:47 - 1 :- Login User 
+22:10:53,837  INFO SMSApplicationClient,main:48 - 2 :- Register User 
+22:11:50,837  INFO SMSApplicationClient,main:45 - Enter your choice: 
+22:11:50,837  INFO SMSApplicationClient,main:46 - 0 :- Exit 
+22:11:50,837  INFO SMSApplicationClient,main:47 - 1 :- Login User 
+22:11:50,837  INFO SMSApplicationClient,main:48 - 2 :- Register User 
+22:12:00,590  INFO SMSApplicationClient,main:296 - Enter the userName: 
+22:12:04,142  INFO SMSApplicationClient,main:298 - Enter the role: 
+22:12:04,154  INFO SMSApplicationClient,main:95 - 1 :- Admin
+22:12:04,154  INFO SMSApplicationClient,main:96 - 2 :- Student
+22:12:04,155  INFO SMSApplicationClient,main:97 - 3 :- Professor
+22:12:06,014  INFO SMSApplicationClient,main:301 - Enter the First Name: 
+22:12:08,699  INFO SMSApplicationClient,main:303 - Enter the Last Name: 
+22:12:10,636  INFO SMSApplicationClient,main:305 - Enter the email address: 
+22:12:12,705 ERROR UserDaoImpl,main:79 - userName not availableThe userName that you entered is not available. Choose another userName.
+22:12:12,716  INFO SMSApplicationClient,main:311 - Registration Failed!!!
+22:12:12,716  INFO SMSApplicationClient,main:45 - Enter your choice: 
+22:12:12,717  INFO SMSApplicationClient,main:46 - 0 :- Exit 
+22:12:12,717  INFO SMSApplicationClient,main:47 - 1 :- Login User 
+22:12:12,717  INFO SMSApplicationClient,main:48 - 2 :- Register User 
+18:32:36,299  INFO SMSApplicationClient,main:45 - Enter your choice: 
+18:32:36,320  INFO SMSApplicationClient,main:46 - 0 :- Exit 
+18:32:36,321  INFO SMSApplicationClient,main:47 - 1 :- Login User 
+18:32:36,322  INFO SMSApplicationClient,main:48 - 2 :- Register User 
+18:33:24,868  INFO SMSApplicationClient,main:127 - Enter the userName: 
+18:33:27,908  INFO SMSApplicationClient,main:129 - Enter the password: 
+18:33:31,296 ERROR AuthenticationDaoImpl,main:69 - Column 'emailAddress' not found.
+18:33:31,297  INFO SMSApplicationClient,main:45 - Enter your choice: 
+18:33:31,298  INFO SMSApplicationClient,main:46 - 0 :- Exit 
+18:33:31,298  INFO SMSApplicationClient,main:47 - 1 :- Login User 
+18:33:31,299  INFO SMSApplicationClient,main:48 - 2 :- Register User 
+18:34:52,247  INFO SMSApplicationClient,main:45 - Enter your choice: 
+18:34:52,249  INFO SMSApplicationClient,main:46 - 0 :- Exit 
+18:34:52,249  INFO SMSApplicationClient,main:47 - 1 :- Login User 
+18:34:52,250  INFO SMSApplicationClient,main:48 - 2 :- Register User 
+18:34:57,012  INFO SMSApplicationClient,main:127 - Enter the userName: 
+18:35:00,180  INFO SMSApplicationClient,main:129 - Enter the password: 
+18:35:01,899 ERROR AuthenticationDaoImpl,main:69 - Column 'emailAddress' not found.
+18:35:01,899  INFO SMSApplicationClient,main:45 - Enter your choice: 
+18:35:01,900  INFO SMSApplicationClient,main:46 - 0 :- Exit 
+18:35:01,900  INFO SMSApplicationClient,main:47 - 1 :- Login User 
+18:35:01,900  INFO SMSApplicationClient,main:48 - 2 :- Register User 
+18:37:00,741  INFO SMSApplicationClient,main:45 - Enter your choice: 
+18:37:00,744  INFO SMSApplicationClient,main:46 - 0 :- Exit 
+18:37:00,744  INFO SMSApplicationClient,main:47 - 1 :- Login User 
+18:37:00,745  INFO SMSApplicationClient,main:48 - 2 :- Register User 
+18:37:03,396  INFO SMSApplicationClient,main:127 - Enter the userName: 
+18:37:07,099  INFO SMSApplicationClient,main:129 - Enter the password: 
+18:37:08,969 ERROR AuthenticationDaoImpl,main:69 - Column 'emailAddress' not found.
+18:37:08,970  INFO SMSApplicationClient,main:45 - Enter your choice: 
+18:37:08,970  INFO SMSApplicationClient,main:46 - 0 :- Exit 
+18:37:08,970  INFO SMSApplicationClient,main:47 - 1 :- Login User 
+18:37:08,971  INFO SMSApplicationClient,main:48 - 2 :- Register User 
+18:39:52,210  INFO SMSApplicationClient,main:45 - Enter your choice: 
+18:39:52,214  INFO SMSApplicationClient,main:46 - 0 :- Exit 
+18:39:52,215  INFO SMSApplicationClient,main:47 - 1 :- Login User 
+18:39:52,215  INFO SMSApplicationClient,main:48 - 2 :- Register User 
+18:39:54,700  INFO SMSApplicationClient,main:127 - Enter the userName: 
+18:39:58,171  INFO SMSApplicationClient,main:129 - Enter the password: 
+18:40:01,106  INFO SMSApplicationClient,main:54 - Enter your choice: 
+18:40:01,106  INFO SMSApplicationClient,main:55 - 0 :- Logout
+18:40:01,107  INFO SMSApplicationClient,main:56 - 1 :- Add User
+18:40:01,108  INFO SMSApplicationClient,main:57 - 2 :- Delete User
+18:40:01,109  INFO SMSApplicationClient,main:58 - 3 :- Update User
+18:40:01,109  INFO SMSApplicationClient,main:59 - 4 :- View Courses
+18:40:01,110  INFO SMSApplicationClient,main:60 - 5 :- Add Course
+18:40:01,111  INFO SMSApplicationClient,main:61 - 6 :- Delete Course
+18:40:01,112  INFO SMSApplicationClient,main:62 - 7 :- Assign Course to Professor
+18:40:01,113  INFO SMSApplicationClient,main:63 - 8 :- Approve User Registration
+18:40:08,907  INFO SMSApplicationClient,main:155 - Enter the userName: 
+18:40:20,283  INFO SMSApplicationClient,main:157 - Enter the role: 
+18:40:22,148  INFO SMSApplicationClient,main:159 - Enter the First Name: 
+18:40:27,123  INFO SMSApplicationClient,main:161 - Enter the Last Name: 
+18:40:30,244  INFO SMSApplicationClient,main:163 - Enter the email address: 
+18:40:34,874  INFO SMSApplicationClient,main:54 - Enter your choice: 
+18:40:34,875  INFO SMSApplicationClient,main:55 - 0 :- Logout
+18:40:34,875  INFO SMSApplicationClient,main:56 - 1 :- Add User
+18:40:34,875  INFO SMSApplicationClient,main:57 - 2 :- Delete User
+18:40:34,876  INFO SMSApplicationClient,main:58 - 3 :- Update User
+18:40:34,876  INFO SMSApplicationClient,main:59 - 4 :- View Courses
+18:40:34,877  INFO SMSApplicationClient,main:60 - 5 :- Add Course
+18:40:34,877  INFO SMSApplicationClient,main:61 - 6 :- Delete Course
+18:40:34,878  INFO SMSApplicationClient,main:62 - 7 :- Assign Course to Professor
+18:40:34,878  INFO SMSApplicationClient,main:63 - 8 :- Approve User Registration
+12:43:56,125  INFO SMSApplicationClient,main:46 - Enter your choice: 
+12:43:56,152  INFO SMSApplicationClient,main:47 - 0 :- Exit 
+12:43:56,153  INFO SMSApplicationClient,main:48 - 1 :- Login User 
+12:43:56,153  INFO SMSApplicationClient,main:49 - 2 :- Register User 
+12:44:13,078  INFO SMSApplicationClient,main:129 - Enter the userName: 
+12:44:17,779  INFO SMSApplicationClient,main:131 - Enter the password: 
+12:44:21,026  INFO SMSApplicationClient,main:78 - Enter your choice : 
+12:44:21,026  INFO SMSApplicationClient,main:79 - 0 :- Logout
+12:44:21,027  INFO SMSApplicationClient,main:80 - 1 :- Select Course
+12:44:21,027  INFO SMSApplicationClient,main:81 - 2 :- Drop Course
+12:44:21,027  INFO SMSApplicationClient,main:82 - 3 :- View Grades
+12:45:07,256  INFO SMSApplicationClient,main:241 - Enter the courseID : 
+12:45:50,833  INFO SMSApplicationClient,main:46 - Enter your choice: 
+12:45:50,835  INFO SMSApplicationClient,main:47 - 0 :- Exit 
+12:45:50,836  INFO SMSApplicationClient,main:48 - 1 :- Login User 
+12:45:50,836  INFO SMSApplicationClient,main:49 - 2 :- Register User 
+12:45:57,885  INFO SMSApplicationClient,main:129 - Enter the userName: 
+12:46:00,199  INFO SMSApplicationClient,main:131 - Enter the password: 
+12:46:02,423  INFO SMSApplicationClient,main:78 - Enter your choice : 
+12:46:02,424  INFO SMSApplicationClient,main:79 - 0 :- Logout
+12:46:02,424  INFO SMSApplicationClient,main:80 - 1 :- Select Course
+12:46:02,425  INFO SMSApplicationClient,main:81 - 2 :- Drop Course
+12:46:02,425  INFO SMSApplicationClient,main:82 - 3 :- View Grades
+12:46:09,222  INFO SMSApplicationClient,main:241 - Enter the courseID : 
+12:47:16,064  INFO SMSApplicationClient,main:46 - Enter your choice: 
+12:47:16,066  INFO SMSApplicationClient,main:47 - 0 :- Exit 
+12:47:16,067  INFO SMSApplicationClient,main:48 - 1 :- Login User 
+12:47:16,068  INFO SMSApplicationClient,main:49 - 2 :- Register User 
+12:47:20,511  INFO SMSApplicationClient,main:129 - Enter the userName: 
+12:47:22,295  INFO SMSApplicationClient,main:131 - Enter the password: 
+12:47:24,177  INFO SMSApplicationClient,main:78 - Enter your choice : 
+12:47:24,178  INFO SMSApplicationClient,main:79 - 0 :- Logout
+12:47:24,179  INFO SMSApplicationClient,main:80 - 1 :- Select Course
+12:47:24,179  INFO SMSApplicationClient,main:81 - 2 :- Drop Course
+12:47:24,180  INFO SMSApplicationClient,main:82 - 3 :- View Grades
+12:47:36,430  INFO SMSApplicationClient,main:241 - Enter the courseID : 
+12:50:33,722  INFO SMSApplicationClient,main:46 - Enter your choice: 
+12:50:33,724  INFO SMSApplicationClient,main:47 - 0 :- Exit 
+12:50:33,725  INFO SMSApplicationClient,main:48 - 1 :- Login User 
+12:50:33,725  INFO SMSApplicationClient,main:49 - 2 :- Register User 
+12:50:36,680  INFO SMSApplicationClient,main:129 - Enter the userName: 
+12:50:39,070  INFO SMSApplicationClient,main:131 - Enter the password: 
+12:50:40,850  INFO SMSApplicationClient,main:78 - Enter your choice : 
+12:50:40,851  INFO SMSApplicationClient,main:79 - 0 :- Logout
+12:50:40,851  INFO SMSApplicationClient,main:80 - 1 :- Select Course
+12:50:40,852  INFO SMSApplicationClient,main:81 - 2 :- Drop Course
+12:50:40,852  INFO SMSApplicationClient,main:82 - 3 :- View Grades
+12:50:43,022  INFO SMSApplicationClient,main:241 - Enter the courseID : 
+12:50:43,839  INFO SMSApplicationClient,main:243 - SelectCourse will be called now: 
+12:52:52,154  INFO SMSApplicationClient,main:46 - Enter your choice: 
+12:52:52,157  INFO SMSApplicationClient,main:47 - 0 :- Exit 
+12:52:52,157  INFO SMSApplicationClient,main:48 - 1 :- Login User 
+12:52:52,158  INFO SMSApplicationClient,main:49 - 2 :- Register User 
+12:52:55,568  INFO SMSApplicationClient,main:129 - Enter the userName: 
+12:52:57,439  INFO SMSApplicationClient,main:131 - Enter the password: 
+12:52:59,091  INFO SMSApplicationClient,main:78 - Enter your choice : 
+12:52:59,092  INFO SMSApplicationClient,main:79 - 0 :- Logout
+12:52:59,092  INFO SMSApplicationClient,main:80 - 1 :- Select Course
+12:52:59,093  INFO SMSApplicationClient,main:81 - 2 :- Drop Course
+12:52:59,093  INFO SMSApplicationClient,main:82 - 3 :- View Grades
+12:53:01,695  INFO SMSApplicationClient,main:241 - Enter the courseID : 
+12:53:03,650  INFO SMSApplicationClient,main:243 - SelectCourse will be called now: 
+12:53:03,651  INFO SMSApplicationClient,main:244 - Student is:  null
+12:53:29,941  INFO SMSApplicationClient,main:46 - Enter your choice: 
+12:53:29,944  INFO SMSApplicationClient,main:47 - 0 :- Exit 
+12:53:29,944  INFO SMSApplicationClient,main:48 - 1 :- Login User 
+12:53:29,945  INFO SMSApplicationClient,main:49 - 2 :- Register User 
+12:53:33,632  INFO SMSApplicationClient,main:129 - Enter the userName: 
+12:53:35,543  INFO SMSApplicationClient,main:131 - Enter the password: 
+12:53:37,066  INFO SMSApplicationClient,main:232 - Student is:  null
+12:53:37,067  INFO SMSApplicationClient,main:78 - Enter your choice : 
+12:53:37,068  INFO SMSApplicationClient,main:79 - 0 :- Logout
+12:53:37,068  INFO SMSApplicationClient,main:80 - 1 :- Select Course
+12:53:37,069  INFO SMSApplicationClient,main:81 - 2 :- Drop Course
+12:53:37,069  INFO SMSApplicationClient,main:82 - 3 :- View Grades
+12:58:43,873  INFO SMSApplicationClient,main:46 - Enter your choice: 
+12:58:43,875  INFO SMSApplicationClient,main:47 - 0 :- Exit 
+12:58:43,875  INFO SMSApplicationClient,main:48 - 1 :- Login User 
+12:58:43,876  INFO SMSApplicationClient,main:49 - 2 :- Register User 
+12:58:48,335  INFO SMSApplicationClient,main:129 - Enter the userName: 
+12:58:52,942  INFO SMSApplicationClient,main:131 - Enter the password: 
+12:58:56,129  INFO SMSApplicationClient,main:232 - Student is:  null
+12:58:56,131  INFO SMSApplicationClient,main:78 - Enter your choice : 
+12:58:56,131  INFO SMSApplicationClient,main:79 - 0 :- Logout
+12:58:56,133  INFO SMSApplicationClient,main:80 - 1 :- Select Course
+12:58:56,134  INFO SMSApplicationClient,main:81 - 2 :- Drop Course
+12:58:56,135  INFO SMSApplicationClient,main:82 - 3 :- View Grades
+13:00:12,211  INFO SMSApplicationClient,main:46 - Enter your choice: 
+13:00:12,213  INFO SMSApplicationClient,main:47 - 0 :- Exit 
+13:00:12,214  INFO SMSApplicationClient,main:48 - 1 :- Login User 
+13:00:12,214  INFO SMSApplicationClient,main:49 - 2 :- Register User 
+13:00:15,408  INFO SMSApplicationClient,main:129 - Enter the userName: 
+13:00:17,159  INFO SMSApplicationClient,main:131 - Enter the password: 
+13:00:18,923  INFO StudentDaoImpl,main:95 - Setting student parameters from result
+13:00:18,925  INFO SMSApplicationClient,main:232 - Student is:  null
+13:00:18,925  INFO SMSApplicationClient,main:78 - Enter your choice : 
+13:00:18,926  INFO SMSApplicationClient,main:79 - 0 :- Logout
+13:00:18,926  INFO SMSApplicationClient,main:80 - 1 :- Select Course
+13:00:18,926  INFO SMSApplicationClient,main:81 - 2 :- Drop Course
+13:00:18,927  INFO SMSApplicationClient,main:82 - 3 :- View Grades
+13:01:03,720  INFO SMSApplicationClient,main:46 - Enter your choice: 
+13:01:03,723  INFO SMSApplicationClient,main:47 - 0 :- Exit 
+13:01:03,723  INFO SMSApplicationClient,main:48 - 1 :- Login User 
+13:01:03,724  INFO SMSApplicationClient,main:49 - 2 :- Register User 
+13:01:07,608  INFO SMSApplicationClient,main:129 - Enter the userName: 
+13:01:09,630  INFO SMSApplicationClient,main:131 - Enter the password: 
+13:01:11,185  INFO StudentDaoImpl,main:95 - Setting student parameters from result
+13:01:11,186  INFO StudentDaoImpl,main:100 - Setting student parameters from result done
+13:01:11,187  INFO SMSApplicationClient,main:232 - Student is:  null
+13:01:11,187  INFO SMSApplicationClient,main:78 - Enter your choice : 
+13:01:11,187  INFO SMSApplicationClient,main:79 - 0 :- Logout
+13:01:11,188  INFO SMSApplicationClient,main:80 - 1 :- Select Course
+13:01:11,188  INFO SMSApplicationClient,main:81 - 2 :- Drop Course
+13:01:11,189  INFO SMSApplicationClient,main:82 - 3 :- View Grades
+13:01:57,269  INFO SMSApplicationClient,main:46 - Enter your choice: 
+13:01:57,272  INFO SMSApplicationClient,main:47 - 0 :- Exit 
+13:01:57,273  INFO SMSApplicationClient,main:48 - 1 :- Login User 
+13:01:57,273  INFO SMSApplicationClient,main:49 - 2 :- Register User 
+13:02:06,670  INFO SMSApplicationClient,main:129 - Enter the userName: 
+13:02:13,862  INFO SMSApplicationClient,main:131 - Enter the password: 
+13:02:17,707  INFO StudentDaoImpl,main:95 - Setting student parameters from result
+13:02:17,708  INFO StudentDaoImpl,main:100 - Setting student parameters from result done
+13:02:17,709  INFO StudentDaoImpl,main:108 - Student is com.flipkart.bean.Student@4f8e5cde
+13:02:17,709  INFO SMSApplicationClient,main:232 - Student is:  null
+13:02:17,710  INFO SMSApplicationClient,main:78 - Enter your choice : 
+13:02:17,711  INFO SMSApplicationClient,main:79 - 0 :- Logout
+13:02:17,711  INFO SMSApplicationClient,main:80 - 1 :- Select Course
+13:02:17,711  INFO SMSApplicationClient,main:81 - 2 :- Drop Course
+13:02:17,712  INFO SMSApplicationClient,main:82 - 3 :- View Grades
+13:02:54,836  INFO SMSApplicationClient,main:46 - Enter your choice: 
+13:02:54,841  INFO SMSApplicationClient,main:47 - 0 :- Exit 
+13:02:54,841  INFO SMSApplicationClient,main:48 - 1 :- Login User 
+13:02:54,842  INFO SMSApplicationClient,main:49 - 2 :- Register User 
+13:02:59,054  INFO SMSApplicationClient,main:129 - Enter the userName: 
+13:03:01,887  INFO SMSApplicationClient,main:131 - Enter the password: 
+13:03:03,643  INFO StudentDaoImpl,main:95 - Setting student parameters from result
+13:03:03,645  INFO StudentDaoImpl,main:100 - Setting student parameters from result done
+13:03:03,645  INFO StudentDaoImpl,main:108 - Student is com.flipkart.bean.Student@4f8e5cde
+13:03:03,646  INFO SMSApplicationClient,main:232 - Student is:  com.flipkart.bean.Student@4f8e5cde
+13:03:03,646  INFO SMSApplicationClient,main:78 - Enter your choice : 
+13:03:03,647  INFO SMSApplicationClient,main:79 - 0 :- Logout
+13:03:03,647  INFO SMSApplicationClient,main:80 - 1 :- Select Course
+13:03:03,648  INFO SMSApplicationClient,main:81 - 2 :- Drop Course
+13:03:03,649  INFO SMSApplicationClient,main:82 - 3 :- View Grades
+13:03:06,834  INFO SMSApplicationClient,main:242 - Enter the courseID : 
+13:03:07,942  INFO SMSApplicationClient,main:244 - SelectCourse will be called now: 
+13:03:08,169  INFO SMSApplicationClient,main:245 - Student is:  com.flipkart.bean.Student@4f8e5cde
+13:03:08,171  INFO StudentDaoImpl,main:29 - Query will be executed now: 
+13:03:08,883 ERROR StudentDaoImpl,main:33 - Table 'test.registeredcourses' doesn't exist
+13:03:08,884  INFO SMSApplicationClient,main:252 - Course with courseID: 1could not be selected
+13:03:08,885  INFO SMSApplicationClient,main:78 - Enter your choice : 
+13:03:08,885  INFO SMSApplicationClient,main:79 - 0 :- Logout
+13:03:08,886  INFO SMSApplicationClient,main:80 - 1 :- Select Course
+13:03:08,886  INFO SMSApplicationClient,main:81 - 2 :- Drop Course
+13:03:08,887  INFO SMSApplicationClient,main:82 - 3 :- View Grades
+13:04:11,666  INFO SMSApplicationClient,main:46 - Enter your choice: 
+13:04:11,669  INFO SMSApplicationClient,main:47 - 0 :- Exit 
+13:04:11,669  INFO SMSApplicationClient,main:48 - 1 :- Login User 
+13:04:11,670  INFO SMSApplicationClient,main:49 - 2 :- Register User 
+13:04:17,920  INFO SMSApplicationClient,main:129 - Enter the userName: 
+13:04:19,479  INFO SMSApplicationClient,main:131 - Enter the password: 
+13:04:20,963  INFO StudentDaoImpl,main:95 - Setting student parameters from result
+13:04:20,964  INFO StudentDaoImpl,main:100 - Setting student parameters from result done
+13:04:20,965  INFO StudentDaoImpl,main:108 - Student is com.flipkart.bean.Student@4f8e5cde
+13:04:20,965  INFO SMSApplicationClient,main:232 - Student is:  com.flipkart.bean.Student@4f8e5cde
+13:04:20,966  INFO SMSApplicationClient,main:78 - Enter your choice : 
+13:04:20,966  INFO SMSApplicationClient,main:79 - 0 :- Logout
+13:04:20,967  INFO SMSApplicationClient,main:80 - 1 :- Select Course
+13:04:20,968  INFO SMSApplicationClient,main:81 - 2 :- Drop Course
+13:04:20,969  INFO SMSApplicationClient,main:82 - 3 :- View Grades
+13:04:26,854  INFO SMSApplicationClient,main:242 - Enter the courseID : 
+13:04:30,030  INFO SMSApplicationClient,main:244 - SelectCourse will be called now: 
+13:04:30,031  INFO SMSApplicationClient,main:245 - Student is:  com.flipkart.bean.Student@4f8e5cde
+13:04:30,032  INFO StudentDaoImpl,main:29 - Query will be executed now: 
+13:04:30,120 ERROR StudentDaoImpl,main:33 - Field 'grade' doesn't have a default value
+13:04:30,121  INFO SMSApplicationClient,main:252 - Course with courseID: 1could not be selected
+13:04:30,121  INFO SMSApplicationClient,main:78 - Enter your choice : 
+13:04:30,122  INFO SMSApplicationClient,main:79 - 0 :- Logout
+13:04:30,122  INFO SMSApplicationClient,main:80 - 1 :- Select Course
+13:04:30,124  INFO SMSApplicationClient,main:81 - 2 :- Drop Course
+13:04:30,124  INFO SMSApplicationClient,main:82 - 3 :- View Grades
+13:05:16,377  INFO SMSApplicationClient,main:46 - Enter your choice: 
+13:05:16,380  INFO SMSApplicationClient,main:47 - 0 :- Exit 
+13:05:16,380  INFO SMSApplicationClient,main:48 - 1 :- Login User 
+13:05:16,380  INFO SMSApplicationClient,main:49 - 2 :- Register User 
+13:05:27,663  INFO SMSApplicationClient,main:129 - Enter the userName: 
+13:05:29,590  INFO SMSApplicationClient,main:131 - Enter the password: 
+13:05:32,132  INFO StudentDaoImpl,main:95 - Setting student parameters from result
+13:05:32,134  INFO StudentDaoImpl,main:100 - Setting student parameters from result done
+13:05:32,134  INFO StudentDaoImpl,main:108 - Student is com.flipkart.bean.Student@4f8e5cde
+13:05:32,135  INFO SMSApplicationClient,main:232 - Student is:  com.flipkart.bean.Student@4f8e5cde
+13:05:32,135  INFO SMSApplicationClient,main:78 - Enter your choice : 
+13:05:32,136  INFO SMSApplicationClient,main:79 - 0 :- Logout
+13:05:32,136  INFO SMSApplicationClient,main:80 - 1 :- Select Course
+13:05:32,137  INFO SMSApplicationClient,main:81 - 2 :- Drop Course
+13:05:32,137  INFO SMSApplicationClient,main:82 - 3 :- View Grades
+13:05:35,422  INFO SMSApplicationClient,main:242 - Enter the courseID : 
+13:05:43,655  INFO SMSApplicationClient,main:244 - SelectCourse will be called now: 
+13:05:43,655  INFO SMSApplicationClient,main:245 - Student is:  com.flipkart.bean.Student@4f8e5cde
+13:05:43,657  INFO StudentDaoImpl,main:29 - Query will be executed now: 
+13:05:43,670 ERROR StudentDaoImpl,main:33 - Field 'grade' doesn't have a default value
+13:05:43,670  INFO SMSApplicationClient,main:252 - Course with courseID: 2could not be selected
+13:05:43,670  INFO SMSApplicationClient,main:78 - Enter your choice : 
+13:05:43,671  INFO SMSApplicationClient,main:79 - 0 :- Logout
+13:05:43,671  INFO SMSApplicationClient,main:80 - 1 :- Select Course
+13:05:43,671  INFO SMSApplicationClient,main:81 - 2 :- Drop Course
+13:05:43,672  INFO SMSApplicationClient,main:82 - 3 :- View Grades
+13:09:25,414  INFO SMSApplicationClient,main:46 - Enter your choice: 
+13:09:25,416  INFO SMSApplicationClient,main:47 - 0 :- Exit 
+13:09:25,417  INFO SMSApplicationClient,main:48 - 1 :- Login User 
+13:09:25,417  INFO SMSApplicationClient,main:49 - 2 :- Register User 
+13:09:32,942  INFO SMSApplicationClient,main:129 - Enter the userName: 
+13:09:35,302  INFO SMSApplicationClient,main:131 - Enter the password: 
+13:09:36,956  INFO StudentDaoImpl,main:95 - Setting student parameters from result
+13:09:36,957  INFO StudentDaoImpl,main:100 - Setting student parameters from result done
+13:09:36,957  INFO StudentDaoImpl,main:108 - Student is com.flipkart.bean.Student@4f8e5cde
+13:09:36,958  INFO SMSApplicationClient,main:232 - Student is:  com.flipkart.bean.Student@4f8e5cde
+13:09:36,958  INFO SMSApplicationClient,main:78 - Enter your choice : 
+13:09:36,959  INFO SMSApplicationClient,main:79 - 0 :- Logout
+13:09:36,959  INFO SMSApplicationClient,main:80 - 1 :- Select Course
+13:09:36,959  INFO SMSApplicationClient,main:81 - 2 :- Drop Course
+13:09:36,959  INFO SMSApplicationClient,main:82 - 3 :- View Grades
+13:09:39,719  INFO SMSApplicationClient,main:242 - Enter the courseID : 
+13:09:40,742  INFO SMSApplicationClient,main:244 - SelectCourse will be called now: 
+13:09:40,743  INFO SMSApplicationClient,main:245 - Student is:  com.flipkart.bean.Student@4f8e5cde
+13:09:40,744  INFO StudentDaoImpl,main:29 - Query will be executed now: 
+13:09:40,758 ERROR StudentDaoImpl,main:33 - Duplicate entry '1-1' for key 1
+13:09:40,759  INFO SMSApplicationClient,main:252 - Course with courseID: 1could not be selected
+13:09:40,759  INFO SMSApplicationClient,main:78 - Enter your choice : 
+13:09:40,759  INFO SMSApplicationClient,main:79 - 0 :- Logout
+13:09:40,759  INFO SMSApplicationClient,main:80 - 1 :- Select Course
+13:09:40,760  INFO SMSApplicationClient,main:81 - 2 :- Drop Course
+13:09:40,760  INFO SMSApplicationClient,main:82 - 3 :- View Grades
+13:09:54,142  INFO SMSApplicationClient,main:242 - Enter the courseID : 
+13:09:55,207  INFO SMSApplicationClient,main:244 - SelectCourse will be called now: 
+13:09:55,207  INFO SMSApplicationClient,main:245 - Student is:  com.flipkart.bean.Student@4f8e5cde
+13:09:55,208  INFO StudentDaoImpl,main:29 - Query will be executed now: 
+13:09:55,259  INFO SMSApplicationClient,main:248 - Course with courseID: 2is successfully selected.
+13:09:55,260  INFO SMSApplicationClient,main:78 - Enter your choice : 
+13:09:55,261  INFO SMSApplicationClient,main:79 - 0 :- Logout
+13:09:55,262  INFO SMSApplicationClient,main:80 - 1 :- Select Course
+13:09:55,262  INFO SMSApplicationClient,main:81 - 2 :- Drop Course
+13:09:55,263  INFO SMSApplicationClient,main:82 - 3 :- View Grades
+18:13:31,231  INFO SMSApplicationClient,main:46 - Enter your choice: 
+18:13:31,271  INFO SMSApplicationClient,main:47 - 0 :- Exit 
+18:13:31,272  INFO SMSApplicationClient,main:48 - 1 :- Login User 
+18:13:31,272  INFO SMSApplicationClient,main:49 - 2 :- Register User 
+18:13:37,023  INFO SMSApplicationClient,main:152 - Enter the userName: 
+18:13:40,479  INFO SMSApplicationClient,main:154 - Enter the password: 
+18:13:42,559  INFO SMSApplicationClient,main:58 - Enter your choice: 
+18:13:42,560  INFO SMSApplicationClient,main:59 - 0 :- Logout
+18:13:42,560  INFO SMSApplicationClient,main:60 - 1 :- Add User
+18:13:42,561  INFO SMSApplicationClient,main:61 - 2 :- Delete User
+18:13:42,561  INFO SMSApplicationClient,main:62 - 3 :- Update User
+18:13:42,562  INFO SMSApplicationClient,main:63 - 4 :- View Courses
+18:13:42,562  INFO SMSApplicationClient,main:64 - 5 :- Add Course
+18:13:42,563  INFO SMSApplicationClient,main:65 - 6 :- Delete Course
+18:13:42,563  INFO SMSApplicationClient,main:66 - 7 :- Assign Course to Professor
+18:13:42,564  INFO SMSApplicationClient,main:67 - 8 :- Approve User Registration
+18:13:48,535  INFO SMSApplicationClient,main:46 - Enter your choice: 
+18:13:48,535  INFO SMSApplicationClient,main:47 - 0 :- Exit 
+18:13:48,535  INFO SMSApplicationClient,main:48 - 1 :- Login User 
+18:13:48,536  INFO SMSApplicationClient,main:49 - 2 :- Register User 
+18:13:51,358  INFO SMSApplicationClient,main:152 - Enter the userName: 
+18:13:53,630  INFO SMSApplicationClient,main:154 - Enter the password: 
+18:13:54,665  INFO SMSApplicationClient,main:58 - Enter your choice: 
+18:13:54,666  INFO SMSApplicationClient,main:59 - 0 :- Logout
+18:13:54,667  INFO SMSApplicationClient,main:60 - 1 :- Add User
+18:13:54,667  INFO SMSApplicationClient,main:61 - 2 :- Delete User
+18:13:54,668  INFO SMSApplicationClient,main:62 - 3 :- Update User
+18:13:54,668  INFO SMSApplicationClient,main:63 - 4 :- View Courses
+18:13:54,669  INFO SMSApplicationClient,main:64 - 5 :- Add Course
+18:13:54,670  INFO SMSApplicationClient,main:65 - 6 :- Delete Course
+18:13:54,670  INFO SMSApplicationClient,main:66 - 7 :- Assign Course to Professor
+18:13:54,671  INFO SMSApplicationClient,main:67 - 8 :- Approve User Registration
+18:13:57,711  INFO SMSApplicationClient,main:180 - Enter the userName: 
+18:14:03,167  INFO SMSApplicationClient,main:182 - Enter the role: 
+18:14:20,687  INFO SMSApplicationClient,main:184 - Enter the First Name: 
+18:14:25,350  INFO SMSApplicationClient,main:186 - Enter the Last Name: 
+18:14:28,447  INFO SMSApplicationClient,main:188 - Enter the email address: 
+18:14:31,612  INFO SMSApplicationClient,main:58 - Enter your choice: 
+18:14:31,613  INFO SMSApplicationClient,main:59 - 0 :- Logout
+18:14:31,613  INFO SMSApplicationClient,main:60 - 1 :- Add User
+18:14:31,614  INFO SMSApplicationClient,main:61 - 2 :- Delete User
+18:14:31,615  INFO SMSApplicationClient,main:62 - 3 :- Update User
+18:14:31,615  INFO SMSApplicationClient,main:63 - 4 :- View Courses
+18:14:31,616  INFO SMSApplicationClient,main:64 - 5 :- Add Course
+18:14:31,617  INFO SMSApplicationClient,main:65 - 6 :- Delete Course
+18:14:31,618  INFO SMSApplicationClient,main:66 - 7 :- Assign Course to Professor
+18:14:31,619  INFO SMSApplicationClient,main:67 - 8 :- Approve User Registration
+18:18:51,680  INFO SMSApplicationClient,main:46 - Enter your choice: 
+18:18:51,683  INFO SMSApplicationClient,main:47 - 0 :- Exit 
+18:18:51,684  INFO SMSApplicationClient,main:48 - 1 :- Login User 
+18:18:51,684  INFO SMSApplicationClient,main:49 - 2 :- Register User 
+18:18:55,622  INFO SMSApplicationClient,main:152 - Enter the userName: 
+18:18:58,278  INFO SMSApplicationClient,main:154 - Enter the password: 
+18:19:00,530  INFO SMSApplicationClient,main:58 - Enter your choice: 
+18:19:00,530  INFO SMSApplicationClient,main:59 - 0 :- Logout
+18:19:00,530  INFO SMSApplicationClient,main:60 - 1 :- Add User
+18:19:00,531  INFO SMSApplicationClient,main:61 - 2 :- Delete User
+18:19:00,532  INFO SMSApplicationClient,main:62 - 3 :- Update User
+18:19:00,532  INFO SMSApplicationClient,main:63 - 4 :- View Courses
+18:19:00,532  INFO SMSApplicationClient,main:64 - 5 :- Add Course
+18:19:00,533  INFO SMSApplicationClient,main:65 - 6 :- Delete Course
+18:19:00,533  INFO SMSApplicationClient,main:66 - 7 :- Assign Course to Professor
+18:19:00,533  INFO SMSApplicationClient,main:67 - 8 :- Approve User Registration
+18:19:11,927  INFO SMSApplicationClient,main:196 - Enter the userName: 
+18:19:16,394 ERROR AdminDaoImpl,main:69 - Parameter index out of range (1 > number of parameters, which is 0).
+18:19:16,395  INFO SMSApplicationClient,main:58 - Enter your choice: 
+18:19:16,395  INFO SMSApplicationClient,main:59 - 0 :- Logout
+18:19:16,396  INFO SMSApplicationClient,main:60 - 1 :- Add User
+18:19:16,397  INFO SMSApplicationClient,main:61 - 2 :- Delete User
+18:19:16,397  INFO SMSApplicationClient,main:62 - 3 :- Update User
+18:19:16,398  INFO SMSApplicationClient,main:63 - 4 :- View Courses
+18:19:16,398  INFO SMSApplicationClient,main:64 - 5 :- Add Course
+18:19:16,399  INFO SMSApplicationClient,main:65 - 6 :- Delete Course
+18:19:16,399  INFO SMSApplicationClient,main:66 - 7 :- Assign Course to Professor
+18:19:16,400  INFO SMSApplicationClient,main:67 - 8 :- Approve User Registration
+18:23:10,991  INFO SMSApplicationClient,main:46 - Enter your choice: 
+18:23:10,994  INFO SMSApplicationClient,main:47 - 0 :- Exit 
+18:23:10,995  INFO SMSApplicationClient,main:48 - 1 :- Login User 
+18:23:10,995  INFO SMSApplicationClient,main:49 - 2 :- Register User 
+18:23:13,967  INFO SMSApplicationClient,main:152 - Enter the userName: 
+18:23:16,975  INFO SMSApplicationClient,main:154 - Enter the password: 
+18:23:18,010  INFO SMSApplicationClient,main:58 - Enter your choice: 
+18:23:18,010  INFO SMSApplicationClient,main:59 - 0 :- Logout
+18:23:18,011  INFO SMSApplicationClient,main:60 - 1 :- Add User
+18:23:18,011  INFO SMSApplicationClient,main:61 - 2 :- Delete User
+18:23:18,011  INFO SMSApplicationClient,main:62 - 3 :- Update User
+18:23:18,012  INFO SMSApplicationClient,main:63 - 4 :- View Courses
+18:23:18,012  INFO SMSApplicationClient,main:64 - 5 :- Add Course
+18:23:18,012  INFO SMSApplicationClient,main:65 - 6 :- Delete Course
+18:23:18,013  INFO SMSApplicationClient,main:66 - 7 :- Assign Course to Professor
+18:23:18,013  INFO SMSApplicationClient,main:67 - 8 :- Approve User Registration
+18:23:24,278  INFO SMSApplicationClient,main:46 - Enter your choice: 
+18:23:24,279  INFO SMSApplicationClient,main:47 - 0 :- Exit 
+18:23:24,280  INFO SMSApplicationClient,main:48 - 1 :- Login User 
+18:23:24,280  INFO SMSApplicationClient,main:49 - 2 :- Register User 
+18:23:57,998  INFO SMSApplicationClient,main:152 - Enter the userName: 
+18:24:00,583  INFO SMSApplicationClient,main:154 - Enter the password: 
+18:24:02,042  INFO SMSApplicationClient,main:58 - Enter your choice: 
+18:24:02,042  INFO SMSApplicationClient,main:59 - 0 :- Logout
+18:24:02,043  INFO SMSApplicationClient,main:60 - 1 :- Add User
+18:24:02,043  INFO SMSApplicationClient,main:61 - 2 :- Delete User
+18:24:02,044  INFO SMSApplicationClient,main:62 - 3 :- Update User
+18:24:02,044  INFO SMSApplicationClient,main:63 - 4 :- View Courses
+18:24:02,045  INFO SMSApplicationClient,main:64 - 5 :- Add Course
+18:24:02,046  INFO SMSApplicationClient,main:65 - 6 :- Delete Course
+18:24:02,047  INFO SMSApplicationClient,main:66 - 7 :- Assign Course to Professor
+18:24:02,047  INFO SMSApplicationClient,main:67 - 8 :- Approve User Registration
+18:24:06,214  INFO SMSApplicationClient,main:180 - Enter the userName: 
+18:24:12,511  INFO SMSApplicationClient,main:182 - Enter the role: 
+18:24:15,606  INFO SMSApplicationClient,main:184 - Enter the First Name: 
+18:24:46,918  INFO SMSApplicationClient,main:186 - Enter the Last Name: 
+18:24:49,278  INFO SMSApplicationClient,main:188 - Enter the email address: 
+18:24:51,828  INFO SMSApplicationClient,main:194 - User added successfully !!!
+18:24:51,829  INFO SMSApplicationClient,main:58 - Enter your choice: 
+18:24:51,830  INFO SMSApplicationClient,main:59 - 0 :- Logout
+18:24:51,831  INFO SMSApplicationClient,main:60 - 1 :- Add User
+18:24:51,832  INFO SMSApplicationClient,main:61 - 2 :- Delete User
+18:24:51,833  INFO SMSApplicationClient,main:62 - 3 :- Update User
+18:24:51,834  INFO SMSApplicationClient,main:63 - 4 :- View Courses
+18:24:51,835  INFO SMSApplicationClient,main:64 - 5 :- Add Course
+18:24:51,836  INFO SMSApplicationClient,main:65 - 6 :- Delete Course
+18:24:51,836  INFO SMSApplicationClient,main:66 - 7 :- Assign Course to Professor
+18:24:51,837  INFO SMSApplicationClient,main:67 - 8 :- Approve User Registration
+18:25:00,894  INFO SMSApplicationClient,main:198 - Enter the userName: 
+18:25:05,003  INFO SMSApplicationClient,main:201 - User deleted successfully !!!.
+18:25:05,009  INFO SMSApplicationClient,main:58 - Enter your choice: 
+18:25:05,009  INFO SMSApplicationClient,main:59 - 0 :- Logout
+18:25:05,010  INFO SMSApplicationClient,main:60 - 1 :- Add User
+18:25:05,010  INFO SMSApplicationClient,main:61 - 2 :- Delete User
+18:25:05,010  INFO SMSApplicationClient,main:62 - 3 :- Update User
+18:25:05,010  INFO SMSApplicationClient,main:63 - 4 :- View Courses
+18:25:05,010  INFO SMSApplicationClient,main:64 - 5 :- Add Course
+18:25:05,010  INFO SMSApplicationClient,main:65 - 6 :- Delete Course
+18:25:05,010  INFO SMSApplicationClient,main:66 - 7 :- Assign Course to Professor
+18:25:05,010  INFO SMSApplicationClient,main:67 - 8 :- Approve User Registration
+18:25:14,863  INFO SMSApplicationClient,main:208 - Enter the userName: 
+18:25:19,519  INFO SMSApplicationClient,main:76 - What do you want to update ?
+18:25:19,519  INFO SMSApplicationClient,main:77 - 1 :- emailAddress
+18:25:19,519  INFO SMSApplicationClient,main:78 - 2 :- firstName
+18:25:19,520  INFO SMSApplicationClient,main:79 - 3 :- lastName
+18:25:27,598  INFO SMSApplicationClient,main:222 - Enter new lastName: 
+18:25:32,446  INFO SMSApplicationClient,main:58 - Enter your choice: 
+18:25:32,447  INFO SMSApplicationClient,main:59 - 0 :- Logout
+18:25:32,447  INFO SMSApplicationClient,main:60 - 1 :- Add User
+18:25:32,448  INFO SMSApplicationClient,main:61 - 2 :- Delete User
+18:25:32,448  INFO SMSApplicationClient,main:62 - 3 :- Update User
+18:25:32,449  INFO SMSApplicationClient,main:63 - 4 :- View Courses
+18:25:32,449  INFO SMSApplicationClient,main:64 - 5 :- Add Course
+18:25:32,449  INFO SMSApplicationClient,main:65 - 6 :- Delete Course
+18:25:32,449  INFO SMSApplicationClient,main:66 - 7 :- Assign Course to Professor
+18:25:32,450  INFO SMSApplicationClient,main:67 - 8 :- Approve User Registration
+18:27:06,750  INFO SMSApplicationClient,main:180 - Enter the userName: 
+18:33:04,079  INFO SMSApplicationClient,main:46 - Enter your choice: 
+18:33:04,081  INFO SMSApplicationClient,main:47 - 0 :- Exit 
+18:33:04,082  INFO SMSApplicationClient,main:48 - 1 :- Login User 
+18:33:04,082  INFO SMSApplicationClient,main:49 - 2 :- Register User 
+18:33:08,159  INFO SMSApplicationClient,main:152 - Enter the userName: 
+18:33:09,775  INFO SMSApplicationClient,main:154 - Enter the password: 
+18:33:10,660  INFO SMSApplicationClient,main:58 - Enter your choice: 
+18:33:10,661  INFO SMSApplicationClient,main:59 - 0 :- Logout
+18:33:10,661  INFO SMSApplicationClient,main:60 - 1 :- Add User
+18:33:10,661  INFO SMSApplicationClient,main:61 - 2 :- Delete User
+18:33:10,662  INFO SMSApplicationClient,main:62 - 3 :- Update User
+18:33:10,662  INFO SMSApplicationClient,main:63 - 4 :- View Courses
+18:33:10,662  INFO SMSApplicationClient,main:64 - 5 :- Add Course
+18:33:10,662  INFO SMSApplicationClient,main:65 - 6 :- Delete Course
+18:33:10,663  INFO SMSApplicationClient,main:66 - 7 :- Assign Course to Professor
+18:33:10,663  INFO SMSApplicationClient,main:67 - 8 :- Approve User Registration
+18:33:19,253  INFO SMSApplicationClient,main:243 - courseID: 1	courseName: OS	courseDescription: OperatingSystem
+18:33:19,265  INFO SMSApplicationClient,main:58 - Enter your choice: 
+18:33:19,265  INFO SMSApplicationClient,main:59 - 0 :- Logout
+18:33:19,265  INFO SMSApplicationClient,main:60 - 1 :- Add User
+18:33:19,266  INFO SMSApplicationClient,main:61 - 2 :- Delete User
+18:33:19,266  INFO SMSApplicationClient,main:62 - 3 :- Update User
+18:33:19,266  INFO SMSApplicationClient,main:63 - 4 :- View Courses
+18:33:19,266  INFO SMSApplicationClient,main:64 - 5 :- Add Course
+18:33:19,266  INFO SMSApplicationClient,main:65 - 6 :- Delete Course
+18:33:19,266  INFO SMSApplicationClient,main:66 - 7 :- Assign Course to Professor
+18:33:19,266  INFO SMSApplicationClient,main:67 - 8 :- Approve User Registration
+18:33:47,519  INFO SMSApplicationClient,main:210 - Enter the userName: 
+18:34:09,303  INFO SMSApplicationClient,main:76 - What do you want to update ?
+18:34:09,303  INFO SMSApplicationClient,main:77 - 1 :- emailAddress
+18:34:09,303  INFO SMSApplicationClient,main:78 - 2 :- firstName
+18:34:09,304  INFO SMSApplicationClient,main:79 - 3 :- lastName
+18:34:12,430  INFO SMSApplicationClient,main:216 - Enter new emailAddress: 
+18:34:14,428  INFO SMSApplicationClient,main:231 - User updated successfully.
+18:34:14,428  INFO SMSApplicationClient,main:58 - Enter your choice: 
+18:34:14,429  INFO SMSApplicationClient,main:59 - 0 :- Logout
+18:34:14,429  INFO SMSApplicationClient,main:60 - 1 :- Add User
+18:34:14,430  INFO SMSApplicationClient,main:61 - 2 :- Delete User
+18:34:14,430  INFO SMSApplicationClient,main:62 - 3 :- Update User
+18:34:14,430  INFO SMSApplicationClient,main:63 - 4 :- View Courses
+18:34:14,430  INFO SMSApplicationClient,main:64 - 5 :- Add Course
+18:34:14,431  INFO SMSApplicationClient,main:65 - 6 :- Delete Course
+18:34:14,431  INFO SMSApplicationClient,main:66 - 7 :- Assign Course to Professor
+18:34:14,431  INFO SMSApplicationClient,main:67 - 8 :- Approve User Registration
+18:34:22,439  INFO SMSApplicationClient,main:247 - Enter the course name : 
+19:25:19,795  INFO SMSApplicationClient,main:46 - Enter your choice: 
+19:25:19,797  INFO SMSApplicationClient,main:47 - 0 :- Exit 
+19:25:19,798  INFO SMSApplicationClient,main:48 - 1 :- Login User 
+19:25:19,798  INFO SMSApplicationClient,main:49 - 2 :- Register User 
+19:25:24,781  INFO SMSApplicationClient,main:152 - Enter the userName: 
+19:25:27,861  INFO SMSApplicationClient,main:154 - Enter the password: 
+19:25:28,946  INFO SMSApplicationClient,main:58 - Enter your choice: 
+19:25:28,947  INFO SMSApplicationClient,main:59 - 0 :- Logout
+19:25:28,947  INFO SMSApplicationClient,main:60 - 1 :- Add User
+19:25:28,947  INFO SMSApplicationClient,main:61 - 2 :- Delete User
+19:25:28,948  INFO SMSApplicationClient,main:62 - 3 :- Update User
+19:25:28,948  INFO SMSApplicationClient,main:63 - 4 :- View Courses
+19:25:28,948  INFO SMSApplicationClient,main:64 - 5 :- Add Course
+19:25:28,949  INFO SMSApplicationClient,main:65 - 6 :- Delete Course
+19:25:28,949  INFO SMSApplicationClient,main:66 - 7 :- Assign Course to Professor
+19:25:28,949  INFO SMSApplicationClient,main:67 - 8 :- Approve User Registration
+19:25:33,341  INFO SMSApplicationClient,main:181 - Enter the userName: 
+19:25:39,004  INFO SMSApplicationClient,main:183 - Enter the role: 
+19:25:39,005  INFO SMSApplicationClient,main:113 - 1 :- Admin
+19:25:39,005  INFO SMSApplicationClient,main:114 - 2 :- Student
+19:25:39,006  INFO SMSApplicationClient,main:115 - 3 :- Professor
+19:25:43,234  INFO SMSApplicationClient,main:186 - Enter the First Name: 
+19:25:46,213  INFO SMSApplicationClient,main:188 - Enter the Last Name: 
+19:25:48,181  INFO SMSApplicationClient,main:190 - Enter the email address: 
+19:25:50,365  INFO SMSApplicationClient,main:196 - User added successfully !!!
+19:25:50,367  INFO SMSApplicationClient,main:58 - Enter your choice: 
+19:25:50,367  INFO SMSApplicationClient,main:59 - 0 :- Logout
+19:25:50,368  INFO SMSApplicationClient,main:60 - 1 :- Add User
+19:25:50,369  INFO SMSApplicationClient,main:61 - 2 :- Delete User
+19:25:50,370  INFO SMSApplicationClient,main:62 - 3 :- Update User
+19:25:50,370  INFO SMSApplicationClient,main:63 - 4 :- View Courses
+19:25:50,371  INFO SMSApplicationClient,main:64 - 5 :- Add Course
+19:25:50,371  INFO SMSApplicationClient,main:65 - 6 :- Delete Course
+19:25:50,373  INFO SMSApplicationClient,main:66 - 7 :- Assign Course to Professor
+19:25:50,374  INFO SMSApplicationClient,main:67 - 8 :- Approve User Registration
+19:29:33,997  INFO SMSApplicationClient,main:200 - Enter the userName: 
+19:29:39,574  INFO SMSApplicationClient,main:203 - User deleted successfully !!!.
+19:29:39,575  INFO SMSApplicationClient,main:58 - Enter your choice: 
+19:29:39,576  INFO SMSApplicationClient,main:59 - 0 :- Logout
+19:29:39,576  INFO SMSApplicationClient,main:60 - 1 :- Add User
+19:29:39,577  INFO SMSApplicationClient,main:61 - 2 :- Delete User
+19:29:39,577  INFO SMSApplicationClient,main:62 - 3 :- Update User
+19:29:39,578  INFO SMSApplicationClient,main:63 - 4 :- View Courses
+19:29:39,578  INFO SMSApplicationClient,main:64 - 5 :- Add Course
+19:29:39,579  INFO SMSApplicationClient,main:65 - 6 :- Delete Course
+19:29:39,580  INFO SMSApplicationClient,main:66 - 7 :- Assign Course to Professor
+19:29:39,580  INFO SMSApplicationClient,main:67 - 8 :- Approve User Registration
+19:29:53,326  INFO SMSApplicationClient,main:181 - Enter the userName: 
+19:29:59,765  INFO SMSApplicationClient,main:183 - Enter the role: 
+19:29:59,766  INFO SMSApplicationClient,main:113 - 1 :- Admin
+19:29:59,766  INFO SMSApplicationClient,main:114 - 2 :- Student
+19:29:59,767  INFO SMSApplicationClient,main:115 - 3 :- Professor
+19:30:16,917  INFO SMSApplicationClient,main:186 - Enter the First Name: 
+19:30:18,765  INFO SMSApplicationClient,main:188 - Enter the Last Name: 
+19:30:19,885  INFO SMSApplicationClient,main:190 - Enter the email address: 
+19:30:21,463 ERROR AdminDaoImpl,main:49 - UserName not availaibleThe userName that you entered is not available. Choose another userName.
+19:30:21,463  INFO SMSApplicationClient,main:194 - User courld not be added
+19:30:21,466  INFO SMSApplicationClient,main:58 - Enter your choice: 
+19:30:21,466  INFO SMSApplicationClient,main:59 - 0 :- Logout
+19:30:21,467  INFO SMSApplicationClient,main:60 - 1 :- Add User
+19:30:21,467  INFO SMSApplicationClient,main:61 - 2 :- Delete User
+19:30:21,467  INFO SMSApplicationClient,main:62 - 3 :- Update User
+19:30:21,468  INFO SMSApplicationClient,main:63 - 4 :- View Courses
+19:30:21,468  INFO SMSApplicationClient,main:64 - 5 :- Add Course
+19:30:21,468  INFO SMSApplicationClient,main:65 - 6 :- Delete Course
+19:30:21,469  INFO SMSApplicationClient,main:66 - 7 :- Assign Course to Professor
+19:30:21,469  INFO SMSApplicationClient,main:67 - 8 :- Approve User Registration
+19:30:41,237  INFO SMSApplicationClient,main:200 - Enter the userName: 
+19:30:59,310  INFO SMSApplicationClient,main:203 - User deleted successfully !!!.
+19:30:59,310  INFO SMSApplicationClient,main:58 - Enter your choice: 
+19:30:59,311  INFO SMSApplicationClient,main:59 - 0 :- Logout
+19:30:59,311  INFO SMSApplicationClient,main:60 - 1 :- Add User
+19:30:59,311  INFO SMSApplicationClient,main:61 - 2 :- Delete User
+19:30:59,312  INFO SMSApplicationClient,main:62 - 3 :- Update User
+19:30:59,313  INFO SMSApplicationClient,main:63 - 4 :- View Courses
+19:30:59,313  INFO SMSApplicationClient,main:64 - 5 :- Add Course
+19:30:59,314  INFO SMSApplicationClient,main:65 - 6 :- Delete Course
+19:30:59,314  INFO SMSApplicationClient,main:66 - 7 :- Assign Course to Professor
+19:30:59,314  INFO SMSApplicationClient,main:67 - 8 :- Approve User Registration
+19:31:17,188  INFO SMSApplicationClient,main:210 - Enter the userName: 
+19:31:33,229  INFO SMSApplicationClient,main:76 - What do you want to update ?
+19:31:33,230  INFO SMSApplicationClient,main:77 - 1 :- emailAddress
+19:31:33,230  INFO SMSApplicationClient,main:78 - 2 :- firstName
+19:31:33,239  INFO SMSApplicationClient,main:79 - 3 :- lastName
+19:31:35,149  INFO SMSApplicationClient,main:216 - Enter new emailAddress: 
+19:31:46,521  INFO SMSApplicationClient,main:231 - User updated successfully.
+19:31:46,521  INFO SMSApplicationClient,main:58 - Enter your choice: 
+19:31:46,521  INFO SMSApplicationClient,main:59 - 0 :- Logout
+19:31:46,522  INFO SMSApplicationClient,main:60 - 1 :- Add User
+19:31:46,522  INFO SMSApplicationClient,main:61 - 2 :- Delete User
+19:31:46,522  INFO SMSApplicationClient,main:62 - 3 :- Update User
+19:31:46,522  INFO SMSApplicationClient,main:63 - 4 :- View Courses
+19:31:46,522  INFO SMSApplicationClient,main:64 - 5 :- Add Course
+19:31:46,523  INFO SMSApplicationClient,main:65 - 6 :- Delete Course
+19:31:46,523  INFO SMSApplicationClient,main:66 - 7 :- Assign Course to Professor
+19:31:46,523  INFO SMSApplicationClient,main:67 - 8 :- Approve User Registration
+19:31:53,829  INFO SMSApplicationClient,main:181 - Enter the userName: 
+19:32:08,093  INFO SMSApplicationClient,main:183 - Enter the role: 
+19:32:08,093  INFO SMSApplicationClient,main:113 - 1 :- Admin
+19:32:08,094  INFO SMSApplicationClient,main:114 - 2 :- Student
+19:32:08,094  INFO SMSApplicationClient,main:115 - 3 :- Professor
+19:32:09,788  INFO SMSApplicationClient,main:186 - Enter the First Name: 
+19:32:10,740  INFO SMSApplicationClient,main:188 - Enter the Last Name: 
+19:32:11,629  INFO SMSApplicationClient,main:190 - Enter the email address: 
+19:32:12,589 ERROR AdminDaoImpl,main:49 - UserName not availaibleThe userName that you entered is not available. Choose another userName.
+19:32:12,590  INFO SMSApplicationClient,main:194 - User courld not be added
+19:32:12,590  INFO SMSApplicationClient,main:58 - Enter your choice: 
+19:32:12,591  INFO SMSApplicationClient,main:59 - 0 :- Logout
+19:32:12,591  INFO SMSApplicationClient,main:60 - 1 :- Add User
+19:32:12,595  INFO SMSApplicationClient,main:61 - 2 :- Delete User
+19:32:12,595  INFO SMSApplicationClient,main:62 - 3 :- Update User
+19:32:12,595  INFO SMSApplicationClient,main:63 - 4 :- View Courses
+19:32:12,596  INFO SMSApplicationClient,main:64 - 5 :- Add Course
+19:32:12,596  INFO SMSApplicationClient,main:65 - 6 :- Delete Course
+19:32:12,598  INFO SMSApplicationClient,main:66 - 7 :- Assign Course to Professor
+19:32:12,598  INFO SMSApplicationClient,main:67 - 8 :- Approve User Registration
+19:32:17,247  INFO SMSApplicationClient,main:243 - courseID: 1	courseName: OS	courseDescription: OperatingSystem
+19:32:17,247  INFO SMSApplicationClient,main:58 - Enter your choice: 
+19:32:17,248  INFO SMSApplicationClient,main:59 - 0 :- Logout
+19:32:17,248  INFO SMSApplicationClient,main:60 - 1 :- Add User
+19:32:17,248  INFO SMSApplicationClient,main:61 - 2 :- Delete User
+19:32:17,248  INFO SMSApplicationClient,main:62 - 3 :- Update User
+19:32:17,249  INFO SMSApplicationClient,main:63 - 4 :- View Courses
+19:32:17,249  INFO SMSApplicationClient,main:64 - 5 :- Add Course
+19:32:17,250  INFO SMSApplicationClient,main:65 - 6 :- Delete Course
+19:32:17,250  INFO SMSApplicationClient,main:66 - 7 :- Assign Course to Professor
+19:32:17,250  INFO SMSApplicationClient,main:67 - 8 :- Approve User Registration
+19:32:31,693  INFO SMSApplicationClient,main:247 - Enter the course name : 
+19:32:40,165  INFO SMSApplicationClient,main:249 - Enter the course description : 
+19:32:49,725  INFO SMSApplicationClient,main:251 - Enter the courseID : 
+19:32:53,567  INFO SMSApplicationClient,main:256 - Course added successfully.
+19:32:53,568  INFO SMSApplicationClient,main:58 - Enter your choice: 
+19:32:53,568  INFO SMSApplicationClient,main:59 - 0 :- Logout
+19:32:53,569  INFO SMSApplicationClient,main:60 - 1 :- Add User
+19:32:53,569  INFO SMSApplicationClient,main:61 - 2 :- Delete User
+19:32:53,569  INFO SMSApplicationClient,main:62 - 3 :- Update User
+19:32:53,570  INFO SMSApplicationClient,main:63 - 4 :- View Courses
+19:32:53,570  INFO SMSApplicationClient,main:64 - 5 :- Add Course
+19:32:53,571  INFO SMSApplicationClient,main:65 - 6 :- Delete Course
+19:32:53,571  INFO SMSApplicationClient,main:66 - 7 :- Assign Course to Professor
+19:32:53,571  INFO SMSApplicationClient,main:67 - 8 :- Approve User Registration
+19:33:01,340  INFO SMSApplicationClient,main:263 - Enter the courseID: 
+19:33:03,463  INFO SMSApplicationClient,main:268 - Course deleted successfully.
+19:33:03,464  INFO SMSApplicationClient,main:58 - Enter your choice: 
+19:33:03,464  INFO SMSApplicationClient,main:59 - 0 :- Logout
+19:33:03,465  INFO SMSApplicationClient,main:60 - 1 :- Add User
+19:33:03,465  INFO SMSApplicationClient,main:61 - 2 :- Delete User
+19:33:03,465  INFO SMSApplicationClient,main:62 - 3 :- Update User
+19:33:03,466  INFO SMSApplicationClient,main:63 - 4 :- View Courses
+19:33:03,467  INFO SMSApplicationClient,main:64 - 5 :- Add Course
+19:33:03,468  INFO SMSApplicationClient,main:65 - 6 :- Delete Course
+19:33:03,468  INFO SMSApplicationClient,main:66 - 7 :- Assign Course to Professor
+19:33:03,469  INFO SMSApplicationClient,main:67 - 8 :- Approve User Registration
+19:33:20,142  INFO SMSApplicationClient,main:247 - Enter the course name : 
+19:33:24,172  INFO SMSApplicationClient,main:249 - Enter the course description : 
+19:33:32,164  INFO SMSApplicationClient,main:251 - Enter the courseID : 
+19:33:36,712  INFO SMSApplicationClient,main:256 - Course added successfully.
+19:33:36,712  INFO SMSApplicationClient,main:58 - Enter your choice: 
+19:33:36,712  INFO SMSApplicationClient,main:59 - 0 :- Logout
+19:33:36,712  INFO SMSApplicationClient,main:60 - 1 :- Add User
+19:33:36,713  INFO SMSApplicationClient,main:61 - 2 :- Delete User
+19:33:36,713  INFO SMSApplicationClient,main:62 - 3 :- Update User
+19:33:36,713  INFO SMSApplicationClient,main:63 - 4 :- View Courses
+19:33:36,713  INFO SMSApplicationClient,main:64 - 5 :- Add Course
+19:33:36,713  INFO SMSApplicationClient,main:65 - 6 :- Delete Course
+19:33:36,713  INFO SMSApplicationClient,main:66 - 7 :- Assign Course to Professor
+19:33:36,713  INFO SMSApplicationClient,main:67 - 8 :- Approve User Registration
+19:33:44,006  INFO SMSApplicationClient,main:275 - Enter the courseID: 
+19:33:46,285  INFO SMSApplicationClient,main:277 - Enter the professorID: 
+19:33:47,188  INFO SMSApplicationClient,main:285 - Course could not be assigned.
+19:33:47,189  INFO SMSApplicationClient,main:289 - Enter the userName: 
+19:36:44,016  INFO SMSApplicationClient,main:46 - Enter your choice: 
+19:36:44,018  INFO SMSApplicationClient,main:47 - 0 :- Exit 
+19:36:44,019  INFO SMSApplicationClient,main:48 - 1 :- Login User 
+19:36:44,019  INFO SMSApplicationClient,main:49 - 2 :- Register User 
+19:36:48,893  INFO SMSApplicationClient,main:152 - Enter the userName: 
+19:36:51,190  INFO SMSApplicationClient,main:154 - Enter the password: 
+19:36:52,284  INFO SMSApplicationClient,main:58 - Enter your choice: 
+19:36:52,284  INFO SMSApplicationClient,main:59 - 0 :- Logout
+19:36:52,284  INFO SMSApplicationClient,main:60 - 1 :- Add User
+19:36:52,285  INFO SMSApplicationClient,main:61 - 2 :- Delete User
+19:36:52,285  INFO SMSApplicationClient,main:62 - 3 :- Update User
+19:36:52,286  INFO SMSApplicationClient,main:63 - 4 :- View Courses
+19:36:52,286  INFO SMSApplicationClient,main:64 - 5 :- Add Course
+19:36:52,286  INFO SMSApplicationClient,main:65 - 6 :- Delete Course
+19:36:52,287  INFO SMSApplicationClient,main:66 - 7 :- Assign Course to Professor
+19:36:52,287  INFO SMSApplicationClient,main:67 - 8 :- Approve User Registration
+19:36:56,156  INFO SMSApplicationClient,main:181 - Enter the userName: 
+19:37:17,578  INFO SMSApplicationClient,main:46 - Enter your choice: 
+19:37:17,580  INFO SMSApplicationClient,main:47 - 0 :- Exit 
+19:37:17,581  INFO SMSApplicationClient,main:48 - 1 :- Login User 
+19:37:17,581  INFO SMSApplicationClient,main:49 - 2 :- Register User 
+19:37:22,205  INFO SMSApplicationClient,main:152 - Enter the userName: 
+19:37:23,997  INFO SMSApplicationClient,main:154 - Enter the password: 
+19:37:25,331  INFO SMSApplicationClient,main:58 - Enter your choice: 
+19:37:25,346  INFO SMSApplicationClient,main:59 - 0 :- Logout
+19:37:25,347  INFO SMSApplicationClient,main:60 - 1 :- Add User
+19:37:25,347  INFO SMSApplicationClient,main:61 - 2 :- Delete User
+19:37:25,347  INFO SMSApplicationClient,main:62 - 3 :- Update User
+19:37:25,347  INFO SMSApplicationClient,main:63 - 4 :- View Courses
+19:37:25,347  INFO SMSApplicationClient,main:64 - 5 :- Add Course
+19:37:25,347  INFO SMSApplicationClient,main:65 - 6 :- Delete Course
+19:37:25,347  INFO SMSApplicationClient,main:66 - 7 :- Assign Course to Professor
+19:37:25,347  INFO SMSApplicationClient,main:67 - 8 :- Approve User Registration
+19:37:30,052  INFO SMSApplicationClient,main:275 - Enter the courseID: 
+19:37:32,204  INFO SMSApplicationClient,main:277 - Enter the professorID: 
+19:37:34,496  INFO SMSApplicationClient,main:282 - Course with courseID : 2has been successfully assigned to professor with professorID: 1
+19:37:34,496  INFO SMSApplicationClient,main:58 - Enter your choice: 
+19:37:34,496  INFO SMSApplicationClient,main:59 - 0 :- Logout
+19:37:34,498  INFO SMSApplicationClient,main:60 - 1 :- Add User
+19:37:34,498  INFO SMSApplicationClient,main:61 - 2 :- Delete User
+19:37:34,498  INFO SMSApplicationClient,main:62 - 3 :- Update User
+19:37:34,498  INFO SMSApplicationClient,main:63 - 4 :- View Courses
+19:37:34,498  INFO SMSApplicationClient,main:64 - 5 :- Add Course
+19:37:34,498  INFO SMSApplicationClient,main:65 - 6 :- Delete Course
+19:37:34,498  INFO SMSApplicationClient,main:66 - 7 :- Assign Course to Professor
+19:37:34,499  INFO SMSApplicationClient,main:67 - 8 :- Approve User Registration
+19:37:52,572  INFO SMSApplicationClient,main:289 - Enter the userName: 
+19:39:03,760  INFO SMSApplicationClient,main:297 - Registration could not be approved.
+19:39:03,761  INFO SMSApplicationClient,main:58 - Enter your choice: 
+19:39:03,761  INFO SMSApplicationClient,main:59 - 0 :- Logout
+19:39:03,762  INFO SMSApplicationClient,main:60 - 1 :- Add User
+19:39:03,762  INFO SMSApplicationClient,main:61 - 2 :- Delete User
+19:39:03,763  INFO SMSApplicationClient,main:62 - 3 :- Update User
+19:39:03,763  INFO SMSApplicationClient,main:63 - 4 :- View Courses
+19:39:03,764  INFO SMSApplicationClient,main:64 - 5 :- Add Course
+19:39:03,765  INFO SMSApplicationClient,main:65 - 6 :- Delete Course
+19:39:03,766  INFO SMSApplicationClient,main:66 - 7 :- Assign Course to Professor
+19:39:03,766  INFO SMSApplicationClient,main:67 - 8 :- Approve User Registration
+19:39:44,939  INFO SMSApplicationClient,main:46 - Enter your choice: 
+19:39:44,941  INFO SMSApplicationClient,main:47 - 0 :- Exit 
+19:39:44,941  INFO SMSApplicationClient,main:48 - 1 :- Login User 
+19:39:44,942  INFO SMSApplicationClient,main:49 - 2 :- Register User 
+19:41:58,217  INFO SMSApplicationClient,main:46 - Enter your choice: 
+19:41:58,219  INFO SMSApplicationClient,main:47 - 0 :- Exit 
+19:41:58,220  INFO SMSApplicationClient,main:48 - 1 :- Login User 
+19:41:58,220  INFO SMSApplicationClient,main:49 - 2 :- Register User 
+19:42:03,885  INFO SMSApplicationClient,main:152 - Enter the userName: 
+19:42:05,588  INFO SMSApplicationClient,main:154 - Enter the password: 
+19:42:07,522  INFO StudentDaoImpl,main:105 - Student is com.flipkart.bean.Student@1b9e1916
+19:42:07,523  INFO SMSApplicationClient,main:308 - Student is:  com.flipkart.bean.Student@1b9e1916
+19:42:07,523  INFO SMSApplicationClient,main:89 - Enter your choice : 
+19:42:07,523  INFO SMSApplicationClient,main:90 - 0 :- Logout
+19:42:07,524  INFO SMSApplicationClient,main:91 - 1 :- Select Course
+19:42:07,524  INFO SMSApplicationClient,main:92 - 2 :- Drop Course
+19:42:07,524  INFO SMSApplicationClient,main:93 - 3 :- View Grades
+19:43:12,773  INFO SMSApplicationClient,main:318 - Enter the courseID : 
+19:43:17,133  INFO SMSApplicationClient,main:320 - SelectCourse will be called now: 
+19:43:17,133  INFO SMSApplicationClient,main:321 - Student is:  com.flipkart.bean.Student@1b9e1916
+19:43:17,218  INFO SMSApplicationClient,main:324 - Course with courseID: 2is successfully selected.
+19:43:17,219  INFO SMSApplicationClient,main:89 - Enter your choice : 
+19:43:17,219  INFO SMSApplicationClient,main:90 - 0 :- Logout
+19:43:17,220  INFO SMSApplicationClient,main:91 - 1 :- Select Course
+19:43:17,221  INFO SMSApplicationClient,main:92 - 2 :- Drop Course
+19:43:17,221  INFO SMSApplicationClient,main:93 - 3 :- View Grades
+19:44:19,204  INFO SMSApplicationClient,main:332 - Enter the courseID : 
+19:44:21,839 ERROR StudentDaoImpl,main:51 - Table 'test.registeredcourse' doesn't exist
+19:44:21,840  INFO SMSApplicationClient,main:339 - Course with courseID: 2could not be dropped.
+19:44:21,841  INFO SMSApplicationClient,main:89 - Enter your choice : 
+19:44:21,841  INFO SMSApplicationClient,main:90 - 0 :- Logout
+19:44:21,842  INFO SMSApplicationClient,main:91 - 1 :- Select Course
+19:44:21,843  INFO SMSApplicationClient,main:92 - 2 :- Drop Course
+19:44:21,843  INFO SMSApplicationClient,main:93 - 3 :- View Grades
+19:44:54,678  INFO SMSApplicationClient,main:345 - courseID	grade
+19:44:54,679  INFO SMSApplicationClient,main:349 - 1	0
+19:44:54,679  INFO SMSApplicationClient,main:349 - 2	0
+19:44:54,679  INFO SMSApplicationClient,main:89 - Enter your choice : 
+19:44:54,680  INFO SMSApplicationClient,main:90 - 0 :- Logout
+19:44:54,680  INFO SMSApplicationClient,main:91 - 1 :- Select Course
+19:44:54,680  INFO SMSApplicationClient,main:92 - 2 :- Drop Course
+19:44:54,681  INFO SMSApplicationClient,main:93 - 3 :- View Grades
+19:45:20,161  INFO SMSApplicationClient,main:46 - Enter your choice: 
+19:45:20,163  INFO SMSApplicationClient,main:47 - 0 :- Exit 
+19:45:20,164  INFO SMSApplicationClient,main:48 - 1 :- Login User 
+19:45:20,164  INFO SMSApplicationClient,main:49 - 2 :- Register User 
+19:45:24,774  INFO SMSApplicationClient,main:152 - Enter the userName: 
+19:45:26,524  INFO SMSApplicationClient,main:154 - Enter the password: 
+19:45:28,489  INFO SMSApplicationClient,main:89 - Enter your choice : 
+19:45:28,490  INFO SMSApplicationClient,main:90 - 0 :- Logout
+19:45:28,490  INFO SMSApplicationClient,main:91 - 1 :- Select Course
+19:45:28,491  INFO SMSApplicationClient,main:92 - 2 :- Drop Course
+19:45:28,491  INFO SMSApplicationClient,main:93 - 3 :- View Grades
+19:45:33,407  INFO SMSApplicationClient,main:317 - Enter the courseID : 
+19:45:35,692  INFO SMSApplicationClient,main:319 - SelectCourse will be called now: 
+19:45:35,693  INFO SMSApplicationClient,main:320 - Student is:  com.flipkart.bean.Student@45fe3ee3
+19:45:35,725 ERROR StudentDaoImpl,main:32 - Duplicate entry '1-2' for key 1
+19:45:35,725  INFO SMSApplicationClient,main:327 - Course with courseID: 2 could not be selected
+19:45:35,725  INFO SMSApplicationClient,main:89 - Enter your choice : 
+19:45:35,726  INFO SMSApplicationClient,main:90 - 0 :- Logout
+19:45:35,726  INFO SMSApplicationClient,main:91 - 1 :- Select Course
+19:45:35,726  INFO SMSApplicationClient,main:92 - 2 :- Drop Course
+19:45:35,726  INFO SMSApplicationClient,main:93 - 3 :- View Grades
+19:46:09,537  INFO SMSApplicationClient,main:46 - Enter your choice: 
+19:46:09,540  INFO SMSApplicationClient,main:47 - 0 :- Exit 
+19:46:09,540  INFO SMSApplicationClient,main:48 - 1 :- Login User 
+19:46:09,541  INFO SMSApplicationClient,main:49 - 2 :- Register User 
+19:46:14,677  INFO SMSApplicationClient,main:152 - Enter the userName: 
+19:46:17,333  INFO SMSApplicationClient,main:154 - Enter the password: 
+19:46:18,961  INFO SMSApplicationClient,main:89 - Enter your choice : 
+19:46:18,961  INFO SMSApplicationClient,main:90 - 0 :- Logout
+19:46:18,962  INFO SMSApplicationClient,main:91 - 1 :- Select Course
+19:46:18,962  INFO SMSApplicationClient,main:92 - 2 :- Drop Course
+19:46:18,962  INFO SMSApplicationClient,main:93 - 3 :- View Grades
+19:46:20,709  INFO SMSApplicationClient,main:317 - Enter the courseID : 
+19:46:23,573 ERROR StudentDaoImpl,main:32 - Duplicate entry '1-2' for key 1
+19:46:23,574  INFO SMSApplicationClient,main:325 - Course with courseID: 2 could not be selected
+19:46:23,574  INFO SMSApplicationClient,main:89 - Enter your choice : 
+19:46:23,574  INFO SMSApplicationClient,main:90 - 0 :- Logout
+19:46:23,575  INFO SMSApplicationClient,main:91 - 1 :- Select Course
+19:46:23,576  INFO SMSApplicationClient,main:92 - 2 :- Drop Course
+19:46:23,576  INFO SMSApplicationClient,main:93 - 3 :- View Grades
+19:46:35,829  INFO SMSApplicationClient,main:329 - Enter the courseID : 
+19:46:38,059  INFO SMSApplicationClient,main:333 - Course with courseID: 2 is successfully dropped.
+19:46:38,059  INFO SMSApplicationClient,main:89 - Enter your choice : 
+19:46:38,060  INFO SMSApplicationClient,main:90 - 0 :- Logout
+19:46:38,060  INFO SMSApplicationClient,main:91 - 1 :- Select Course
+19:46:38,061  INFO SMSApplicationClient,main:92 - 2 :- Drop Course
+19:46:38,062  INFO SMSApplicationClient,main:93 - 3 :- View Grades
+19:46:42,701  INFO SMSApplicationClient,main:317 - Enter the courseID : 
+19:46:43,706  INFO SMSApplicationClient,main:321 - Course with courseID: 2 is successfully selected.
+19:46:43,706  INFO SMSApplicationClient,main:89 - Enter your choice : 
+19:46:43,707  INFO SMSApplicationClient,main:90 - 0 :- Logout
+19:46:43,708  INFO SMSApplicationClient,main:91 - 1 :- Select Course
+19:46:43,708  INFO SMSApplicationClient,main:92 - 2 :- Drop Course
+19:46:43,709  INFO SMSApplicationClient,main:93 - 3 :- View Grades
+19:46:48,951  INFO SMSApplicationClient,main:342 - courseID	grade
+19:46:48,952  INFO SMSApplicationClient,main:346 - 1		0
+19:46:48,952  INFO SMSApplicationClient,main:346 - 2		0
+19:46:48,953  INFO SMSApplicationClient,main:89 - Enter your choice : 
+19:46:48,953  INFO SMSApplicationClient,main:90 - 0 :- Logout
+19:46:48,954  INFO SMSApplicationClient,main:91 - 1 :- Select Course
+19:46:48,954  INFO SMSApplicationClient,main:92 - 2 :- Drop Course
+19:46:48,955  INFO SMSApplicationClient,main:93 - 3 :- View Grades
+19:47:00,045  INFO SMSApplicationClient,main:46 - Enter your choice: 
+19:47:00,046  INFO SMSApplicationClient,main:47 - 0 :- Exit 
+19:47:00,046  INFO SMSApplicationClient,main:48 - 1 :- Login User 
+19:47:00,046  INFO SMSApplicationClient,main:49 - 2 :- Register User 
+19:47:02,685  INFO SMSApplicationClient,main:152 - Enter the userName: 
+19:47:07,629  INFO SMSApplicationClient,main:154 - Enter the password: 
+19:47:10,525 ERROR AuthenticationDaoImpl,main:71 - The userName that you entered is not registered. Enter valid userName.
+19:47:10,526  INFO SMSApplicationClient,main:46 - Enter your choice: 
+19:47:10,526  INFO SMSApplicationClient,main:47 - 0 :- Exit 
+19:47:10,526  INFO SMSApplicationClient,main:48 - 1 :- Login User 
+19:47:10,526  INFO SMSApplicationClient,main:49 - 2 :- Register User 
+19:47:44,325  INFO SMSApplicationClient,main:152 - Enter the userName: 
+19:47:47,293  INFO SMSApplicationClient,main:154 - Enter the password: 
+19:47:49,809  INFO SMSApplicationClient,main:101 - Enter your choice : 
+19:47:49,809  INFO SMSApplicationClient,main:102 - 0 :- Logout
+19:47:49,809  INFO SMSApplicationClient,main:103 - 1 :- Record Grade
+19:47:49,809  INFO SMSApplicationClient,main:104 - 2 :- View Student List
+19:47:49,810  INFO SMSApplicationClient,main:105 - 3 :- View Course
+19:47:54,342  INFO SMSApplicationClient,main:363 - Enter the studentID: 
+19:47:58,924  INFO SMSApplicationClient,main:365 - Enter the courseID: 
+19:48:01,500  INFO SMSApplicationClient,main:367 - Enter the grade: 
+19:48:04,638 ERROR AdminDaoImpl,main:89 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+19:48:04,639  INFO SMSApplicationClient,main:375 - Grade could not be recorded. 
+19:48:04,639  INFO SMSApplicationClient,main:101 - Enter your choice : 
+19:48:04,640  INFO SMSApplicationClient,main:102 - 0 :- Logout
+19:48:04,640  INFO SMSApplicationClient,main:103 - 1 :- Record Grade
+19:48:04,640  INFO SMSApplicationClient,main:104 - 2 :- View Student List
+19:48:04,641  INFO SMSApplicationClient,main:105 - 3 :- View Course
+19:49:17,525  INFO SMSApplicationClient,main:379 - Enter the courseID: 
+19:49:27,279 ERROR AdminDaoImpl,main:68 - Can not issue executeUpdate() for SELECTs
+19:50:26,426  INFO SMSApplicationClient,main:46 - Enter your choice: 
+19:50:26,428  INFO SMSApplicationClient,main:47 - 0 :- Exit 
+19:50:26,428  INFO SMSApplicationClient,main:48 - 1 :- Login User 
+19:50:26,429  INFO SMSApplicationClient,main:49 - 2 :- Register User 
+19:50:34,557  INFO SMSApplicationClient,main:152 - Enter the userName: 
+19:50:37,212  INFO SMSApplicationClient,main:154 - Enter the password: 
+19:50:39,848  INFO SMSApplicationClient,main:101 - Enter your choice : 
+19:50:39,849  INFO SMSApplicationClient,main:102 - 0 :- Logout
+19:50:39,849  INFO SMSApplicationClient,main:103 - 1 :- Record Grade
+19:50:39,849  INFO SMSApplicationClient,main:104 - 2 :- View Student List
+19:50:39,850  INFO SMSApplicationClient,main:105 - 3 :- View Course
+19:50:58,653  INFO SMSApplicationClient,main:363 - Enter the studentID: 
+19:51:01,309  INFO SMSApplicationClient,main:365 - Enter the courseID: 
+19:51:02,445  INFO SMSApplicationClient,main:367 - Enter the grade: 
+19:51:04,543 ERROR AdminDaoImpl,main:88 - Table 'test.grade' doesn't exist
+19:51:04,544  INFO SMSApplicationClient,main:375 - Grade could not be recorded. 
+19:51:04,544  INFO SMSApplicationClient,main:101 - Enter your choice : 
+19:51:04,544  INFO SMSApplicationClient,main:102 - 0 :- Logout
+19:51:04,545  INFO SMSApplicationClient,main:103 - 1 :- Record Grade
+19:51:04,545  INFO SMSApplicationClient,main:104 - 2 :- View Student List
+19:51:04,545  INFO SMSApplicationClient,main:105 - 3 :- View Course
+19:51:34,048  INFO SMSApplicationClient,main:46 - Enter your choice: 
+19:51:34,051  INFO SMSApplicationClient,main:47 - 0 :- Exit 
+19:51:34,051  INFO SMSApplicationClient,main:48 - 1 :- Login User 
+19:51:34,051  INFO SMSApplicationClient,main:49 - 2 :- Register User 
+19:51:39,693  INFO SMSApplicationClient,main:152 - Enter the userName: 
+19:51:41,549  INFO SMSApplicationClient,main:154 - Enter the password: 
+19:51:43,536  INFO SMSApplicationClient,main:89 - Enter your choice : 
+19:51:43,537  INFO SMSApplicationClient,main:90 - 0 :- Logout
+19:51:43,537  INFO SMSApplicationClient,main:91 - 1 :- Select Course
+19:51:43,537  INFO SMSApplicationClient,main:92 - 2 :- Drop Course
+19:51:43,538  INFO SMSApplicationClient,main:93 - 3 :- View Grades
+19:51:48,172  INFO SMSApplicationClient,main:46 - Enter your choice: 
+19:51:48,173  INFO SMSApplicationClient,main:47 - 0 :- Exit 
+19:51:48,173  INFO SMSApplicationClient,main:48 - 1 :- Login User 
+19:51:48,174  INFO SMSApplicationClient,main:49 - 2 :- Register User 
+19:51:51,509  INFO SMSApplicationClient,main:152 - Enter the userName: 
+19:51:54,228  INFO SMSApplicationClient,main:154 - Enter the password: 
+19:51:57,537  INFO SMSApplicationClient,main:101 - Enter your choice : 
+19:51:57,538  INFO SMSApplicationClient,main:102 - 0 :- Logout
+19:51:57,538  INFO SMSApplicationClient,main:103 - 1 :- Record Grade
+19:51:57,539  INFO SMSApplicationClient,main:104 - 2 :- View Student List
+19:51:57,539  INFO SMSApplicationClient,main:105 - 3 :- View Course
+19:52:04,253  INFO SMSApplicationClient,main:363 - Enter the studentID: 
+19:52:07,613  INFO SMSApplicationClient,main:365 - Enter the courseID: 
+19:52:08,800  INFO SMSApplicationClient,main:367 - Enter the grade: 
+19:52:10,511 ERROR AdminDaoImpl,main:88 - Duplicate entry '1-2' for key 1
+19:52:10,512  INFO SMSApplicationClient,main:375 - Grade could not be recorded. 
+19:52:10,512  INFO SMSApplicationClient,main:101 - Enter your choice : 
+19:52:10,512  INFO SMSApplicationClient,main:102 - 0 :- Logout
+19:52:10,512  INFO SMSApplicationClient,main:103 - 1 :- Record Grade
+19:52:10,513  INFO SMSApplicationClient,main:104 - 2 :- View Student List
+19:52:10,513  INFO SMSApplicationClient,main:105 - 3 :- View Course
+19:52:43,748  INFO SMSApplicationClient,main:363 - Enter the studentID: 
+19:52:49,876  INFO SMSApplicationClient,main:365 - Enter the courseID: 
+19:52:52,037  INFO SMSApplicationClient,main:367 - Enter the grade: 
+19:52:54,303  INFO SMSApplicationClient,main:371 - Grade recorded successfully.
+19:52:54,304  INFO SMSApplicationClient,main:101 - Enter your choice : 
+19:52:54,305  INFO SMSApplicationClient,main:102 - 0 :- Logout
+19:52:54,306  INFO SMSApplicationClient,main:103 - 1 :- Record Grade
+19:52:54,307  INFO SMSApplicationClient,main:104 - 2 :- View Student List
+19:52:54,307  INFO SMSApplicationClient,main:105 - 3 :- View Course
+19:53:14,717  INFO SMSApplicationClient,main:379 - Enter the courseID: 
+19:54:35,758  INFO SMSApplicationClient,main:46 - Enter your choice: 
+19:54:35,760  INFO SMSApplicationClient,main:47 - 0 :- Exit 
+19:54:35,760  INFO SMSApplicationClient,main:48 - 1 :- Login User 
+19:54:35,761  INFO SMSApplicationClient,main:49 - 2 :- Register User 
+19:54:42,309  INFO SMSApplicationClient,main:152 - Enter the userName: 
+19:54:44,437  INFO SMSApplicationClient,main:154 - Enter the password: 
+19:54:48,709  INFO SMSApplicationClient,main:101 - Enter your choice : 
+19:54:48,710  INFO SMSApplicationClient,main:102 - 0 :- Logout
+19:54:48,710  INFO SMSApplicationClient,main:103 - 1 :- Record Grade
+19:54:48,710  INFO SMSApplicationClient,main:104 - 2 :- View Student List
+19:54:48,711  INFO SMSApplicationClient,main:105 - 3 :- View Course
+19:54:54,909  INFO SMSApplicationClient,main:379 - Enter the courseID: 
+19:54:56,839  INFO SMSApplicationClient,main:383 - studentID 	Department	Semester
+19:54:56,839  INFO SMSApplicationClient,main:384 - 1	cse	1
+19:54:56,839  INFO SMSApplicationClient,main:101 - Enter your choice : 
+19:54:56,840  INFO SMSApplicationClient,main:102 - 0 :- Logout
+19:54:56,840  INFO SMSApplicationClient,main:103 - 1 :- Record Grade
+19:54:56,841  INFO SMSApplicationClient,main:104 - 2 :- View Student List
+19:54:56,841  INFO SMSApplicationClient,main:105 - 3 :- View Course
+19:55:19,046  INFO SMSApplicationClient,main:388 - Enter the courseID: 
+19:55:20,615 ERROR AdminDaoImpl,main:41 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ELECT * from course where courseID = 1 LIMIT 1' at line 1
+19:55:20,615  INFO SMSApplicationClient,main:391 - courseID 	Course Name	Course Descrition
+19:56:09,083  INFO SMSApplicationClient,main:46 - Enter your choice: 
+19:56:09,085  INFO SMSApplicationClient,main:47 - 0 :- Exit 
+19:56:09,085  INFO SMSApplicationClient,main:48 - 1 :- Login User 
+19:56:09,086  INFO SMSApplicationClient,main:49 - 2 :- Register User 
+19:56:14,733  INFO SMSApplicationClient,main:152 - Enter the userName: 
+19:56:17,148  INFO SMSApplicationClient,main:154 - Enter the password: 
+19:56:19,532  INFO SMSApplicationClient,main:101 - Enter your choice : 
+19:56:19,532  INFO SMSApplicationClient,main:102 - 0 :- Logout
+19:56:19,532  INFO SMSApplicationClient,main:103 - 1 :- Record Grade
+19:56:19,533  INFO SMSApplicationClient,main:104 - 2 :- View Student List
+19:56:19,533  INFO SMSApplicationClient,main:105 - 3 :- View Course
+19:56:23,221  INFO SMSApplicationClient,main:388 - Enter the courseID: 
+19:56:24,118  INFO SMSApplicationClient,main:391 - courseID 	Course Name	Course Descrition
+19:56:24,118  INFO SMSApplicationClient,main:392 - 1	OS	OperatingSystem
+19:56:24,119  INFO SMSApplicationClient,main:101 - Enter your choice : 
+19:56:24,119  INFO SMSApplicationClient,main:102 - 0 :- Logout
+19:56:24,120  INFO SMSApplicationClient,main:103 - 1 :- Record Grade
+19:56:24,121  INFO SMSApplicationClient,main:104 - 2 :- View Student List
+19:56:24,121  INFO SMSApplicationClient,main:105 - 3 :- View Course
+19:56:50,580  INFO SMSApplicationClient,main:46 - Enter your choice: 
+19:56:50,581  INFO SMSApplicationClient,main:47 - 0 :- Exit 
+19:56:50,581  INFO SMSApplicationClient,main:48 - 1 :- Login User 
+19:56:50,581  INFO SMSApplicationClient,main:49 - 2 :- Register User 
+19:56:53,156  INFO SMSApplicationClient,main:152 - Enter the userName: 
+19:56:54,964  INFO SMSApplicationClient,main:154 - Enter the password: 
+19:56:58,152  INFO SMSApplicationClient,main:89 - Enter your choice : 
+19:56:58,153  INFO SMSApplicationClient,main:90 - 0 :- Logout
+19:56:58,153  INFO SMSApplicationClient,main:91 - 1 :- Select Course
+19:56:58,153  INFO SMSApplicationClient,main:92 - 2 :- Drop Course
+19:56:58,154  INFO SMSApplicationClient,main:93 - 3 :- View Grades
+19:57:00,524  INFO SMSApplicationClient,main:317 - Enter the courseID : 
+19:57:05,045 ERROR StudentDaoImpl,main:32 - Duplicate entry '1-2' for key 1
+19:57:05,045  INFO SMSApplicationClient,main:325 - Course with courseID: 2 could not be selected
+19:57:05,046  INFO SMSApplicationClient,main:89 - Enter your choice : 
+19:57:05,046  INFO SMSApplicationClient,main:90 - 0 :- Logout
+19:57:05,046  INFO SMSApplicationClient,main:91 - 1 :- Select Course
+19:57:05,047  INFO SMSApplicationClient,main:92 - 2 :- Drop Course
+19:57:05,047  INFO SMSApplicationClient,main:93 - 3 :- View Grades
+19:57:13,151  INFO SMSApplicationClient,main:342 - courseID	grade
+19:57:13,151  INFO SMSApplicationClient,main:346 - 1		0
+19:57:13,152  INFO SMSApplicationClient,main:346 - 2		3
+19:57:13,152  INFO SMSApplicationClient,main:89 - Enter your choice : 
+19:57:13,153  INFO SMSApplicationClient,main:90 - 0 :- Logout
+19:57:13,153  INFO SMSApplicationClient,main:91 - 1 :- Select Course
+19:57:13,154  INFO SMSApplicationClient,main:92 - 2 :- Drop Course
+19:57:13,154  INFO SMSApplicationClient,main:93 - 3 :- View Grades
+19:59:52,685  INFO SMSApplicationClient,main:46 - Enter your choice: 
+19:59:52,686  INFO SMSApplicationClient,main:47 - 0 :- Exit 
+19:59:52,686  INFO SMSApplicationClient,main:48 - 1 :- Login User 
+19:59:52,686  INFO SMSApplicationClient,main:49 - 2 :- Register User 
+19:59:56,660  INFO SMSApplicationClient,main:152 - Enter the userName: 
+19:59:58,292  INFO SMSApplicationClient,main:154 - Enter the password: 
+19:59:59,521  INFO SMSApplicationClient,main:58 - Enter your choice: 
+19:59:59,522  INFO SMSApplicationClient,main:59 - 0 :- Logout
+19:59:59,522  INFO SMSApplicationClient,main:60 - 1 :- Add User
+19:59:59,523  INFO SMSApplicationClient,main:61 - 2 :- Delete User
+19:59:59,523  INFO SMSApplicationClient,main:62 - 3 :- Update User
+19:59:59,524  INFO SMSApplicationClient,main:63 - 4 :- View Courses
+19:59:59,524  INFO SMSApplicationClient,main:64 - 5 :- Add Course
+19:59:59,524  INFO SMSApplicationClient,main:65 - 6 :- Delete Course
+19:59:59,525  INFO SMSApplicationClient,main:66 - 7 :- Assign Course to Professor
+19:59:59,525  INFO SMSApplicationClient,main:67 - 8 :- Approve User Registration
+20:00:01,764  INFO SMSApplicationClient,main:181 - Enter the userName: 
+20:00:55,163  INFO SMSApplicationClient,main:46 - Enter your choice: 
+20:00:55,165  INFO SMSApplicationClient,main:47 - 0 :- Exit 
+20:00:55,166  INFO SMSApplicationClient,main:48 - 1 :- Login User 
+20:00:55,166  INFO SMSApplicationClient,main:49 - 2 :- Register User 
+20:01:00,517  INFO SMSApplicationClient,main:403 - Enter the userName: 
+20:01:09,077  INFO SMSApplicationClient,main:405 - Enter the role: 
+20:01:09,078  INFO SMSApplicationClient,main:113 - 1 :- Admin
+20:01:09,078  INFO SMSApplicationClient,main:114 - 2 :- Student
+20:01:09,078  INFO SMSApplicationClient,main:115 - 3 :- Professor
+20:01:12,532  INFO SMSApplicationClient,main:408 - Enter the First Name: 
+20:01:16,604  INFO SMSApplicationClient,main:410 - Enter the Last Name: 
+20:01:18,700  INFO SMSApplicationClient,main:412 - Enter the email address: 
+20:01:21,933 ERROR UserDaoImpl,main:79 - The userName that you entered is not available. Choose another userName.
+20:01:21,934  INFO SMSApplicationClient,main:418 - Registration Failed!!!
+20:01:21,934  INFO SMSApplicationClient,main:46 - Enter your choice: 
+20:01:21,935  INFO SMSApplicationClient,main:47 - 0 :- Exit 
+20:01:21,935  INFO SMSApplicationClient,main:48 - 1 :- Login User 
+20:01:21,935  INFO SMSApplicationClient,main:49 - 2 :- Register User 
+20:01:31,565  INFO SMSApplicationClient,main:403 - Enter the userName: 
+20:01:33,149  INFO SMSApplicationClient,main:405 - Enter the role: 
+20:01:33,149  INFO SMSApplicationClient,main:113 - 1 :- Admin
+20:01:33,150  INFO SMSApplicationClient,main:114 - 2 :- Student
+20:01:33,150  INFO SMSApplicationClient,main:115 - 3 :- Professor
+21:16:50,828  INFO SMSApplicationClient,main:46 - Enter your choice: 
+21:16:50,832  INFO SMSApplicationClient,main:47 - 0 :- Exit 
+21:16:50,833  INFO SMSApplicationClient,main:48 - 1 :- Login User 
+21:16:50,834  INFO SMSApplicationClient,main:49 - 2 :- Register User 
+21:17:04,142  INFO SMSApplicationClient,main:152 - Enter the userName: 
+21:17:06,172  INFO SMSApplicationClient,main:154 - Enter the password: 
+21:17:07,496  INFO SMSApplicationClient,main:58 - Enter your choice: 
+21:17:07,497  INFO SMSApplicationClient,main:59 - 0 :- Logout
+21:17:07,497  INFO SMSApplicationClient,main:60 - 1 :- Add User
+21:17:07,497  INFO SMSApplicationClient,main:61 - 2 :- Delete User
+21:17:07,498  INFO SMSApplicationClient,main:62 - 3 :- Update User
+21:17:07,498  INFO SMSApplicationClient,main:63 - 4 :- View Courses
+21:17:07,498  INFO SMSApplicationClient,main:64 - 5 :- Add Course
+21:17:07,498  INFO SMSApplicationClient,main:65 - 6 :- Delete Course
+21:17:07,499  INFO SMSApplicationClient,main:66 - 7 :- Assign Course to Professor
+21:17:07,499  INFO SMSApplicationClient,main:67 - 8 :- Approve User Registration
+21:17:13,996  INFO SMSApplicationClient,main:181 - Enter the userName: 
+21:17:19,972  INFO SMSApplicationClient,main:183 - Enter the role: 
+21:17:19,973  INFO SMSApplicationClient,main:113 - 1 :- Admin
+21:17:19,973  INFO SMSApplicationClient,main:114 - 2 :- Student
+21:17:19,973  INFO SMSApplicationClient,main:115 - 3 :- Professor
+21:17:22,925  INFO SMSApplicationClient,main:186 - Enter the First Name: 
+21:17:25,701  INFO SMSApplicationClient,main:188 - Enter the Last Name: 
+21:17:26,932  INFO SMSApplicationClient,main:190 - Enter the email address: 
+21:17:28,672  INFO SMSApplicationClient,main:196 - User added successfully !!!
+21:17:28,672  INFO SMSApplicationClient,main:58 - Enter your choice: 
+21:17:28,674  INFO SMSApplicationClient,main:59 - 0 :- Logout
+21:17:28,675  INFO SMSApplicationClient,main:60 - 1 :- Add User
+21:17:28,676  INFO SMSApplicationClient,main:61 - 2 :- Delete User
+21:17:28,678  INFO SMSApplicationClient,main:62 - 3 :- Update User
+21:17:28,679  INFO SMSApplicationClient,main:63 - 4 :- View Courses
+21:17:28,680  INFO SMSApplicationClient,main:64 - 5 :- Add Course
+21:17:28,681  INFO SMSApplicationClient,main:65 - 6 :- Delete Course
+21:17:28,682  INFO SMSApplicationClient,main:66 - 7 :- Assign Course to Professor
+21:17:28,683  INFO SMSApplicationClient,main:67 - 8 :- Approve User Registration
+21:17:37,380  INFO SMSApplicationClient,main:200 - Enter the userName: 
+21:17:47,401  INFO SMSApplicationClient,main:203 - User deleted successfully !!!.
+21:17:47,402  INFO SMSApplicationClient,main:58 - Enter your choice: 
+21:17:47,402  INFO SMSApplicationClient,main:59 - 0 :- Logout
+21:17:47,403  INFO SMSApplicationClient,main:60 - 1 :- Add User
+21:17:47,403  INFO SMSApplicationClient,main:61 - 2 :- Delete User
+21:17:47,403  INFO SMSApplicationClient,main:62 - 3 :- Update User
+21:17:47,404  INFO SMSApplicationClient,main:63 - 4 :- View Courses
+21:17:47,404  INFO SMSApplicationClient,main:64 - 5 :- Add Course
+21:17:47,405  INFO SMSApplicationClient,main:65 - 6 :- Delete Course
+21:17:47,405  INFO SMSApplicationClient,main:66 - 7 :- Assign Course to Professor
+21:17:47,405  INFO SMSApplicationClient,main:67 - 8 :- Approve User Registration
+21:17:57,509  INFO SMSApplicationClient,main:210 - Enter the userName: 
+21:18:01,556  INFO SMSApplicationClient,main:76 - What do you want to update ?
+21:18:01,557  INFO SMSApplicationClient,main:77 - 1 :- emailAddress
+21:18:01,557  INFO SMSApplicationClient,main:78 - 2 :- firstName
+21:18:01,557  INFO SMSApplicationClient,main:79 - 3 :- lastName
+21:18:08,997  INFO SMSApplicationClient,main:216 - Enter new emailAddress: 
+21:18:10,644  INFO SMSApplicationClient,main:231 - User updated successfully.
+21:18:10,644  INFO SMSApplicationClient,main:58 - Enter your choice: 
+21:18:10,644  INFO SMSApplicationClient,main:59 - 0 :- Logout
+21:18:10,644  INFO SMSApplicationClient,main:60 - 1 :- Add User
+21:18:10,645  INFO SMSApplicationClient,main:61 - 2 :- Delete User
+21:18:10,645  INFO SMSApplicationClient,main:62 - 3 :- Update User
+21:18:10,645  INFO SMSApplicationClient,main:63 - 4 :- View Courses
+21:18:10,645  INFO SMSApplicationClient,main:64 - 5 :- Add Course
+21:18:10,645  INFO SMSApplicationClient,main:65 - 6 :- Delete Course
+21:18:10,645  INFO SMSApplicationClient,main:66 - 7 :- Assign Course to Professor
+21:18:10,646  INFO SMSApplicationClient,main:67 - 8 :- Approve User Registration
